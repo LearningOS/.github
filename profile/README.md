@@ -3,7 +3,7 @@
 ## Self Learning
 - [OS course in 2022 spring](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/relatedinfo.md)
  
-## Self Trainings
+## Self Training
 ### Rust Language
 - [rustings classroom](https://github.com/LearningOS/rustlings)
 ### Rust base Simple OS Kernel

@@ -1,4 +1,5 @@
-# 操作系统内核的学习与训练中心
+# the Learning&Training Hub of OS Kernel
+# 操作系统内核的学习与训练中心 
 
 ## Self Learning
 - [OS course in 2022 spring](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/relatedinfo.md)

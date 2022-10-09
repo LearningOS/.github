@@ -2,7 +2,7 @@
 
 ## [2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)
 
-- [News]((https://github.com/LearningOS/rust-based-os-comp2022/blob/main/news.md)（2022年开源操作系统训练营的新闻和纪要）
+- [News](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/news.md)（2022年开源操作系统训练营的新闻和纪要）
 - 训练营在线排行榜
   - [第一&二阶段排行：Rust Lang & rCore Kernel](https://learningos.github.io/classroom-grading/)
   - [第三阶段排行：OS Kernel Implementation in OSCOMP2022](https://os-autograding.github.io/classroom-grading-template/)

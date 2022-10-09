@@ -6,6 +6,7 @@
 - 训练营在线排行榜
   - [第一&二阶段排行：Rust Lang & rCore Kernel](https://learningos.github.io/classroom-grading/)
   - [第三阶段排行：OS Kernel Implementation in OSCOMP2022](https://os-autograding.github.io/classroom-grading-template/)
+
 **Details about Self Learning & Training**
 
 ### Self Learning

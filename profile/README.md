@@ -1,5 +1,4 @@
 # the Learning&Training Hub of OS Kernel
-**操作系统内核学习与训练中心** 
 
 ## [2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)
 

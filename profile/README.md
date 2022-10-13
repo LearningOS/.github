@@ -14,7 +14,7 @@
  
 ### Self Training
 #### Rust Language
-- [easy * ：rustings classroom](https://github.com/LearningOS/rustlings)
+- [Easy * ：rustings classroom](https://github.com/LearningOS/rustlings)
 #### Rust base Simple OS Kernel
 - [Normal ** ：rCore Tutorial v3 classroom](https://github.com/LearningOS/rust-based-os-comp2022#kernel-labs)
 #### OS Kernel Implementation in OSCOMP2022

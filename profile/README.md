@@ -12,7 +12,7 @@
 **Details about Self Learning & Training**
 
 ### Self Learning
-- [Easy --> Normal  --> Hard ： Rust Programming & OS & Advanced OS courses in Spring&Summer, 2022](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/relatedinfo.md)
+- [Easy --> Normal  --> Hard ： based on Rust Programming & OS & Advanced OS courses in Spring&Summer, 2022 and other learning resources](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/relatedinfo.md)
  
 ### Self Training
 #### Rust Language

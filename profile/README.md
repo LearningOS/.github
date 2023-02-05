@@ -6,7 +6,7 @@
 - 2023.02.05：[组件化操作系统设计与实现的相关题目](https://github.com/chyyuu/thoughts/blob/main/task-list.md)，欢迎感兴趣的朋友联系我们。
 - 2023.02.05：[2022 秋冬季训练营总结会&组件化操作系统设计与实现技术交流会-part2](https://meeting.tencent.com/v2/cloud-record/share?id=b2bd335e-c3fb-4169-8558-7621c71dfb75&from=3&is-single=true)
 - 2023.02.02：[组件化操作系统设计与实现技术交流会-part1](https://meeting.tencent.com/v2/cloud-record/share?id=af9f763c-a862-4dd4-9552-7061b1355b0d&from=3)
-- 2023.02.01：2022 秋冬季训练营第二阶段学习结束，[通过第二阶段的学员名单和项目列表](stage2-passed.md)。
+- 2023.02.01：2022 秋冬季训练营第二阶段学习结束，[通过第二阶段的学员名单和项目列表](stage2-passed.md)
 - Online Ranking （训练营在线排行榜）
   - [第一阶段排行：Rust Lang & rCore Kernel](https://learningos.github.io/classroom-grading/)
   - [第二阶段排行：OS Kernel Implementation in OSCOMP2022](https://os-autograding.github.io/classroom-grading-template/)

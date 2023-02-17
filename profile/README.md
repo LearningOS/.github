@@ -1,5 +1,8 @@
 # the Learning&Training Hub of OS Kernel
 
+## [2023开源操作系统训练营](https://github.com/LearningOS/rust-based-os-comp2023)
+- 2023.02.17：2023开源操作系统训练营准备中
+
 ## [2022开源操作系统训练营](https://github.com/LearningOS/rust-based-os-comp2022)
 - [Announce](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/announce.md)（公告）
 - [News](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/news.md)（新闻纪要） 

@@ -3,7 +3,7 @@
 ## [2023开源操作系统训练营](https://github.com/LearningOS/rust-based-os-comp2023)
 - 2023.02.17：2023开源操作系统训练营准备中
 
-## [2022开源操作系统训练营](https://github.com/LearningOS/rust-based-os-comp2022)
+## [2022开源操作系统训练营](https://github.com/LearningOS/rust-based-os-comp2023/tree/comp2022)
 - [Announce](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/announce.md)（公告）
 - [News](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/news.md)（新闻纪要） 
 - 2023.02.05：[组件化操作系统设计与实现的相关题目](https://github.com/chyyuu/thoughts/blob/main/task-list.md)，欢迎感兴趣的朋友联系我们

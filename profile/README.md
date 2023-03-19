@@ -10,12 +10,12 @@
 **Details about Self Learning & Training**
 
 ### Self Learning
-- [Easy --> Normal  --> Hard ： based on Rust Programming & OS & Advanced OS courses in Spring&Summer, 2022 and other learning resources](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/relatedinfo.md)
+- [Easy --> Normal  --> Hard ： Rust Programming & RISC-V arch & OS courses & Advanced OS courses & other learning resources](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/relatedinfo.md)
  
 ### Self Training
 #### Rust Language
 - [Easy * ：stage1: Rust-lang & RISC-V arch training](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/scheduling-1.md)
 #### C or Rust base Simple OS Kernel
 - [Normal ** ：stage2: C/Rust-based OS kernel Training](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/scheduling-2.md)
-#### OS Kernel Implementation in OSCOMP2022
-- [Hard *** ：OS Kernel(run linux apps) calssroom](https://github.com/LearningOS/oscomp-kernel-training)
+#### OS Kernel Implementation in OSCOMP2022(全国大学生操作系统比赛)
+- [Hard *** ：(Option) Design OS Kernel(run linux apps)](https://github.com/LearningOS/oscomp-kernel-training)

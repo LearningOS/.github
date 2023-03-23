@@ -28,3 +28,5 @@
 - [Normal -- Hard  ：Design OS Components -- OS Kernel](https://github.com/rcore-os/arceos)
 #### (Option) Hypervisor Design & Implementation
 - [Normal -- Hard  ：Design Hypervisor](https://github.com/LearningOS/RVM-Tutorial)
+
+**注：如果对（Option）的训练内容感兴趣，请联系LearningOS开源社区负责人李明老师（微信id：limingth）**

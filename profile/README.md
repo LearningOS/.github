@@ -12,7 +12,7 @@
 - 2023.02.05：[OS课程的部分大实验内容](https://learningos.github.io/os-lectures/oslabs/biglabs.html)，[组件化操作系统设计与实现的相关题目](https://github.com/chyyuu/thoughts/blob/main/task-list.md)，欢迎感兴趣的朋友联系[我们](https://github.com/LearningOS/rust-based-os-comp2023#%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA%E8%B4%9F%E8%B4%A3%E4%BA%BA)
 
 
-**Details about Self Learning & Training**
+## 自学自练&定期交流
 
 ### Self Learning
 - [Easy --> Normal  --> Hard ： Rust Programming & RISC-V arch & OS courses & Advanced OS courses & other learning resources](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/relatedinfo.md)

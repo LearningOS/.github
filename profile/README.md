@@ -22,5 +22,9 @@
 - [Easy * ：stage1: Rust-lang & RISC-V arch training](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/scheduling-1.md)
 #### C or Rust base Simple OS Kernel
 - [Normal ** ：stage2: C/Rust-based OS kernel Training](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/scheduling-2.md)
-#### OS Kernel Implementation in OSCOMP2022(全国大学生操作系统比赛)
-- [Hard *** ：(Option) Design OS Kernel(run linux apps)](https://github.com/LearningOS/oscomp-kernel-training)
+#### (Option) OS Kernel Implementation in OSCOMP2022(全国大学生操作系统比赛)
+- [Hard *** ：Design OS Kernel(run linux apps)](https://github.com/LearningOS/oscomp-kernel-training)
+#### (Option) Component OS Kernel Design & Implementation
+- [Normal -- Hard  ：Design OS Components -- OS Kernel](https://github.com/rcore-os/arceos)
+#### (Option) Hypervisor Design & Implementation
+- [Normal -- Hard  ：Design Hypervisor](https://github.com/LearningOS/RVM-Tutorial)

@@ -25,7 +25,7 @@
 #### (Option) OS Kernel Design&Impl (全国大学生操作系统比赛内核赛道实战模拟)
 - [Hard *** ：Design OS Kernel(run linux apps)](https://github.com/LearningOS/oscomp-kernel-training)
 #### (Option) Component OS Kernel Design & Implementation
-- [Normal -- Hard  ：Design OS Components -- OS Kernel](https://github.com/rcore-os/arceos)
+- [Normal -- Hard  ：Design OS Components -- OS Kernel Framework -- Apps](https://github.com/rcore-os/arceos)
 #### (Option) Hypervisor Design & Implementation
 - [Normal -- Hard  ：Design Hypervisor](https://github.com/LearningOS/RVM-Tutorial)
 

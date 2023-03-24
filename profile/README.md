@@ -29,4 +29,6 @@
 #### (Option) Hypervisor Design & Implementation
 - [Normal -- Hard  ：Design Hypervisor](https://github.com/LearningOS/RVM-Tutorial)
 
-**注：如果对（Option）训练内容或定制培训内容感兴趣，请联系LearningOS开源社区负责人李明老师（微信id：limingth）**
+**注1：如果对（Option）训练内容或定制培训内容感兴趣，请联系LearningOS开源社区负责人李明老师（微信id：limingth）。**
+
+**注2：如果想选择可选项目的学生和工程师，请在完成第二阶段的训练后，请与助教和老师联系。这些项目属于有一定创新性的题目，得到了国家实验室、国家创新中心、头部企业和高校研究生导师的直接支持，在就业和学业发展上有新的挑战和机会。**

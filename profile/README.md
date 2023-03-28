@@ -20,10 +20,15 @@
 ### Self Training
 #### Rust Language
 - [Easy * ：stage1: Rust-lang & RISC-V arch training](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/scheduling-1.md)
+- [ranking list：Rust Lang](https://learningos.github.io/rust-rustlings-ranking/)
 #### C or Rust base Simple OS Kernel
 - [Normal ** ：stage2: C/Rust-based OS kernel Training](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/scheduling-2.md)
+- [ranking list：uCore Tutorial]( https://learningos.github.io/2023S-OS-uCore-Classroom-Rank-list/)
+- [ranking list：rCore Tutorial]( https://learningos.github.io/2023S-OS-rCore-Classroom-Rank-list/)
+  
 #### (Option) OS Kernel Design&Impl (全国大学生操作系统比赛内核赛道实战模拟)
 - [Hard *** ：Design OS Kernel(run linux apps)](https://github.com/LearningOS/oscomp-kernel-training)
+
 #### (Option) Component OS Kernel Design & Implementation
 - [Normal -- Hard  ：Design OS Components -- OS Kernel Framework -- Apps](https://github.com/rcore-os/arceos)
 #### (Option) Hypervisor Design & Implementation

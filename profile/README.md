@@ -1,6 +1,7 @@
 # the Learning&Training Hub of OS Kernel
 
 ## [2023开源操作系统训练营](https://github.com/LearningOS/rust-based-os-comp2023)
+- 2023.04.18: 大家在完成训练营第二阶段的训练后，如果还有兴趣探索基于Rust的操作系统，欢迎参与[这些实验小项目](https://github.com/orgs/rcore-os/discussions/categories/ideas)。
 - 2023.04.01：2023 年春夏季开源操作系统训练营正式启动。
 - 2023.03.25：年春夏季开源操作系统训练营启动&报名交流会(腾讯会议号：231-190-126)
 - 2023.03.23：请参加的同学填写[训练营报名登记表](http://chyyyuuu.mikecrm.com/2zxG8dp)，并加入[相关微信群](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/2023os2train.jpg)。**目前群人数已经200人，入群请联系李明老师（微信id：limingth）**

@@ -30,8 +30,11 @@
 
 #### (Option) Component OS Kernel Design & Implementation
 - [Normal -- Hard  ：Design OS Components -- OS Kernel Framework -- Apps](https://github.com/rcore-os/arceos)
+- [some ideas&progress](https://github.com/orgs/rcore-os/discussions/categories/ideas)
+- 
 #### (Option) Hypervisor Design & Implementation
 - [Normal -- Hard  ：Design Hypervisor](https://github.com/LearningOS/RVM-Tutorial)
+- [some ideas&progress](https://github.com/orgs/rcore-os/discussions/13)
 
 **注1：如果对（Option）训练内容或定制培训内容感兴趣，请联系LearningOS开源社区负责人李明老师（微信id：limingth）。**
 

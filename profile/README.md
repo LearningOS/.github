@@ -1,5 +1,7 @@
 # the Learning&Training Hub of OS Kernel
 
+# [2023国家智能网联汽车创新中心训练营: 2023.08.02~2023.09.04](https://github.com/cicvedu)
+
 ## [2023开源操作系统训练营](https://github.com/LearningOS/rust-based-os-comp2023)
 - 2023.05.27：在5月底前完成第二阶段 rCore OS实验的全部内容，排行榜分数达到500分（满分）或类似的能力证明的同学，可联系李明老师了解详情，参加内容丰富的线下实习计划。实习地点在北京/济南。
 - 2023.05.07：部分已经完成训练营第二阶段训练的同学，可联系李明老师，与全国的学生/工程师一起参加[各种有趣或挑战性的小项目](https://github.com/orgs/rcore-os/discussions/categories/ideas)
@@ -42,6 +44,11 @@
 
 **注2：如果想选择可选项目的学生和工程师，请在完成第二阶段的训练后，请与助教和老师联系。这些项目属于有一定创新性的题目，得到了国家实验室、国家创新中心、头部企业和高校研究生导师的直接支持，在就业和学业发展上有新的挑战和机会。**
 
+## 开展新的探索
+- [ArceOS源码仓库](https://github.com/rcore-os/arceos)，鼓励探索学习与交流！
+- [开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！
+- [2023国家智能网联汽车创新中心训练营: 2023.08.02~2023.09.04](https://github.com/cicvedu),欢迎关注！
+  
 ## 相关开源社区
 - [rCoreOS开源社区](https://github.com/rcore-os)
 - [OS比赛开源社区](https://github.com/oscomp)

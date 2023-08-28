@@ -2,7 +2,7 @@
 
 ## [2023国家智能网联汽车创新中心训练营: 2023.08.02~2023.09.04](https://github.com/cicvedu)
 
-## [2023开源操作系统训练营](https://github.com/LearningOS/rust-based-os-comp2023)
+## [2023开源操作系统训练营：2023.04~2023.06](https://github.com/LearningOS/rust-based-os-comp2023)
 - 2023.05.27：在5月底前完成第二阶段 rCore OS实验的全部内容，排行榜分数达到500分（满分）或类似的能力证明的同学，可联系李明老师了解详情，参加内容丰富的线下实习计划。实习地点在北京/济南。
 - 2023.05.07：部分已经完成训练营第二阶段训练的同学，可联系李明老师，与全国的学生/工程师一起参加[各种有趣或挑战性的小项目](https://github.com/orgs/rcore-os/discussions/categories/ideas)
 - 2023.04.18: 大家在完成训练营第二阶段的训练后，如果还有兴趣探索基于Rust的操作系统，欢迎参与[这些实验小项目](https://github.com/orgs/rcore-os/discussions/categories/ideas)。

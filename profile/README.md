@@ -1,6 +1,6 @@
 # the Learning&Training Hub of OS Kernel
 
-# [2023国家智能网联汽车创新中心训练营: 2023.08.02~2023.09.04](https://github.com/cicvedu)
+## [2023国家智能网联汽车创新中心训练营: 2023.08.02~2023.09.04](https://github.com/cicvedu)
 
 ## [2023开源操作系统训练营](https://github.com/LearningOS/rust-based-os-comp2023)
 - 2023.05.27：在5月底前完成第二阶段 rCore OS实验的全部内容，排行榜分数达到500分（满分）或类似的能力证明的同学，可联系李明老师了解详情，参加内容丰富的线下实习计划。实习地点在北京/济南。

@@ -53,3 +53,4 @@
 - [rCoreOS开源社区](https://github.com/rcore-os)
 - [OS比赛开源社区](https://github.com/oscomp)
 - [syswonder开源社区](https://syswonder.org/)
+- [智能网联汽车创新中心训练营:开源操作系统](https://github.com/cicvedu)

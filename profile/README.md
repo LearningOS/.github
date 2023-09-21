@@ -1,6 +1,6 @@
 # the Learning&Training Hub of OS Kernel
 
-## [2023开源操作系统秋冬季训练营：2023.10.8~2023.12.3](https://github.com/LearningOS/rust-based-os-comp2023)
+## [2023开源操作系统秋冬季训练营：2023.10.7~2023.12.3](https://github.com/LearningOS/rust-based-os-comp2023)
 
 - 2023.10.07: 2023 年秋冬季开源操作系统训练营启动会，会议时间：2023/10/07 20:00-20:15 ，#腾讯会议：860-444-641。请报名的同学参加。
 - 2023.09.21：2023 年秋冬季开源操作系统训练营开启报名通道，请感兴趣的小伙伴在线填写[报名表](https://www.wjx.cn/vm/wUtNWVR.aspx) 。注：**加入微信群请联系李明老师（微信id：limingth）**

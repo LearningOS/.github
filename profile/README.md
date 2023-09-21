@@ -9,10 +9,10 @@
 
 
 
-# [以往信息]
-## [2023国家智能网联汽车创新中心训练营: 2023.08.02~2023.09.04](https://github.com/cicvedu)
-## [2023开源操作系统春夏季训练营：2023.04~2023.06](https://github.com/LearningOS/rust-based-os-comp2023/tree/2023springsummer)
-## [信息记录]((./log.md))
+## 以往信息
+### [2023国家智能网联汽车创新中心训练营: 2023.08.02~2023.09.04](https://github.com/cicvedu)
+### [2023开源操作系统春夏季训练营：2023.04~2023.06](https://github.com/LearningOS/rust-based-os-comp2023/tree/2023springsummer)
+### [信息记录](./log.md)
 
 ## 自学自练&定期交流
 

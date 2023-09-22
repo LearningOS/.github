@@ -1,18 +1,20 @@
 # the Learning&Training Hub of OS Kernel
 
-## [2023开源操作系统秋冬季训练营：2023.10.7~2023.12.3](https://github.com/LearningOS/rust-based-os-comp2023)
+## [2023秋冬季开源操作系统训练营：2023.10.7~2023.12.3](https://github.com/LearningOS/rust-based-os-comp2023)
 
-- 2023.10.07: 2023 年秋冬季开源操作系统训练营启动会，会议时间：2023/10/07 20:00-20:15 ，#腾讯会议：860-444-641。请报名的同学参加。
-- 2023.09.21：2023 年秋冬季开源操作系统训练营开启报名通道，请感兴趣的小伙伴在线填写[报名表](https://www.wjx.cn/vm/wUtNWVR.aspx) 。注：**加入微信群请联系李明老师（微信id：limingth）**
-- 2023.09.19：[2023秋冬季OS训练营培训课表安排初稿](https://docs.qq.com/sheet/DUHZ3anNKUW53TXdL?tab=000001)发布。
+- 2023.10.07: 2023年秋冬季开源操作系统训练营启动会，会议时间：2023/10/07 20:00-20:15 ，#腾讯会议：860-444-641。请报名的同学参加。
+- 2023.09.21：2023年秋冬季开源操作系统训练营开启报名通道，以下是报名本期训练营的流程：
+  1. 请感兴趣的小伙伴在线填写[报名表](https://www.wjx.cn/vm/wUtNWVR.aspx) 。
+  2. 报名表填写**提交之后**，会看到**加入本期训练营学员微信群**的二维码，请截图保存，或直接扫码入群。
+  3. 报名完成后，可以浏览 [2023秋冬季OS训练营培训课表安排](https://docs.qq.com/sheet/DUHZ3anNKUW53TXdL?tab=000001) 了解本期训练营的课表安排。
+  4. 如果希望在自己所在的高校社团或者企业内部对训练营做宣传推广，可以加李明老师微信联系（微信id：limingth）
 - 2023.09.10：[开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！
 - 2023.09.01：2023年秋冬季开源操作系统训练营准备中。
 
 
-
 ## 以往信息
 ### [2023国家智能网联汽车创新中心训练营: 2023.08.02~2023.09.04](https://github.com/cicvedu)
-### [2023开源操作系统春夏季训练营：2023.04~2023.06](https://github.com/LearningOS/rust-based-os-comp2023/tree/2023springsummer)
+### [2023春夏季开源操作系统训练营：2023.04~2023.06](https://github.com/LearningOS/rust-based-os-comp2023/tree/2023springsummer)
 ### [信息记录](./log.md)
 
 ## 自学自练&定期交流

@@ -16,12 +16,15 @@
 - 2023.09.10：[开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！
 - 2023.09.01：2023年秋冬季开源操作系统训练营准备中。
 
-
 ## 以往信息
+
 ### [2023国家智能网联汽车创新中心训练营: 2023.08.02~2023.09.04](https://github.com/cicvedu)
 ### [2023春夏季开源操作系统训练营：2023.04~2023.06](https://github.com/LearningOS/rust-based-os-comp2023/tree/2023springsummer)
-- [2023春夏季开源操作系统训练营启动会视频回放](https://meeting.tencent.com/user-center/shared-record-info?id=2cd517b0-0d9a-4139-b3e0-2af4c8cdbd67)
-- [2022秋冬季开源操作系统训练营启动会视频回放](https://meeting.tencent.com/user-center/shared-record-info?id=00e0e809-1e03-4f41-8e6a-4e71c0ca1342)
+- [2023春夏季OS2训练营启动会回放](https://meeting.tencent.com/user-center/shared-record-info?id=2cd517b0-0d9a-4139-b3e0-2af4c8cdbd67)
+### [2022秋冬季开源操作系统训练营：2022.10~2022.12](https://github.com/LearningOS/rust-based-os-comp2022-1/blob/main/scheduling.md)
+- [2022秋冬季OS2训练营启动会回放](https://meeting.tencent.com/user-center/shared-record-info?id=00e0e809-1e03-4f41-8e6a-4e71c0ca1342)
+### [2022春夏季开源操作系统训练营：2022.06~2022.08](https://github.com/LearningOS/rust-based-os-comp2022-1/blob/main/scheduling.md)
+- 2022.07.05：晚上20:30 基于腾讯会议（会议号：201-785-984）召开"开源操作系统学习训练营开幕式
 ### [信息记录](./log.md)
 
 ## 自学自练&定期交流

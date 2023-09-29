@@ -20,6 +20,8 @@
 ## 以往信息
 ### [2023国家智能网联汽车创新中心训练营: 2023.08.02~2023.09.04](https://github.com/cicvedu)
 ### [2023春夏季开源操作系统训练营：2023.04~2023.06](https://github.com/LearningOS/rust-based-os-comp2023/tree/2023springsummer)
+- [2023春夏季开源操作系统训练营启动会视频回放](https://meeting.tencent.com/user-center/shared-record-info?id=2cd517b0-0d9a-4139-b3e0-2af4c8cdbd67)
+- [2022秋冬季开源操作系统训练营启动会视频回放](https://meeting.tencent.com/user-center/shared-record-info?id=00e0e809-1e03-4f41-8e6a-4e71c0ca1342)
 ### [信息记录](./log.md)
 
 ## 自学自练&定期交流

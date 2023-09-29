@@ -10,8 +10,9 @@
   1. 请感兴趣的小伙伴 [在线填写报名表](https://www.wjx.cn/vm/wUtNWVR.aspx) 。
   2. 报名表填写**提交之后**，会看到**加入本期训练营学员微信群**的二维码，请截图保存，或直接扫码入群。
   3. **如果成功报名但未入群，请加微信号 rustedu 手工加群。**
-  4. 报名完成后，可以浏览 [2023秋冬季OS训练营培训课表安排](https://docs.qq.com/sheet/DUHZ3anNKUW53TXdL?tab=000001) 了解本期训练营的课表安排。
-  5. 如果希望在自己所在的高校社团或者企业内部对训练营做宣传推广，可以加李明老师微信联系（微信id：limingth）
+  4. 已经加入学习群的，可以**在微信群里自愿组队**，需填写[2023秋冬季OS2训练营学员组队信息表](https://docs.qq.com/sheet/DWXlSV1VXYVpGY3JD?tab=BB08J2)
+  5. 报名完成后，可以浏览 [2023秋冬季OS训练营培训课表安排](https://docs.qq.com/sheet/DUHZ3anNKUW53TXdL?tab=000001) 了解本期训练营的课表安排。
+  6. 如果希望在自己所在的高校社团或者企业内部对训练营做宣传推广，可以加李明老师微信联系（微信id：limingth）
 - 2023.09.10：[开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！
 - 2023.09.01：2023年秋冬季开源操作系统训练营准备中。
 

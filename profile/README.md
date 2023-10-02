@@ -1,18 +1,40 @@
 # the Learning&Training Hub of OS Kernel
 
-## [2023开源操作系统秋冬季训练营：2023.10.7~2023.12.3](https://github.com/LearningOS/rust-based-os-comp2023)
+## [2023秋冬季开源操作系统训练营：2023.10.7~2023.12.3](https://github.com/LearningOS/rust-based-os-comp2023)
 
-- 2023.10.08: 2023 年秋冬季开源操作系统训练营启动会，会议时间：2023/10/08 20:00-20:15 ，#腾讯会议：860-444-641。请报名的同学参加。
-- 2023.09.21：2023 年秋冬季开源操作系统训练营开启报名通道，请感兴趣的小伙伴在线填写[报名表](https://www.wjx.cn/vm/wUtNWVR.aspx) 。注：**加入微信群请联系李明老师（微信id：limingth）**
-- 2023.09.19：[2023秋冬季OS训练营培训课表安排初稿](https://docs.qq.com/sheet/DUHZ3anNKUW53TXdL?tab=000001)发布。
+- 2023.10.08: 2023年秋冬季开源操作系统训练营启动会，请报名的同学参加。
+  - 会议时间：2023/10/08 20:00-21:30
+  - #腾讯会议：860-444-641
+  - 会议链接：https://meeting.tencent.com/dm/28ysFj7tdYQW
+  - 会议安排：
+    - 8:00 陈渝老师主持，回顾训练营发展历史
+    - 8:10 李明老师总结本期训练营报名情况
+    - 8:20 朱懿老师介绍本期训练营课程体系和师资安排
+    - 8:30 向勇老师介绍训练营的各项管理要求和开源毕设情况
+    - 8:40 讲师代表发言
+    - 8:50 项目实习导师代表发言
+    - 9:00 往届优秀学员代表发言
+    - 9:15 合作单位代表发言
+    - 9:30 陈渝老师总结展望，希望寄语
+- 2023.09.21：2023年秋冬季开源操作系统训练营开启报名通道，以下是报名本期训练营的流程：
+  1. 请感兴趣的小伙伴 [在线填写报名表](https://www.wjx.cn/vm/wUtNWVR.aspx) 。
+  2. 报名表填写**提交之后**，会看到**加入本期训练营学员微信群**的二维码，请截图保存，或直接扫码入群。
+  3. **如果成功报名但未入群，请加微信号 rustedu 手工加群。**
+  4. 已经加入学习群的，可以**在微信群里自愿组队**，需填写[2023秋冬季OS2训练营学员组队信息表](https://docs.qq.com/sheet/DWXlSV1VXYVpGY3JD?tab=BB08J2)
+  5. 报名完成后，可以浏览 [2023秋冬季OS训练营培训课表安排](https://docs.qq.com/sheet/DUHZ3anNKUW53TXdL?tab=000001) 了解本期训练营的课表安排。
+  6. 如果希望在自己所在的高校社团或者企业内部对训练营做宣传推广，可以加李明老师微信联系（微信id：limingth）
 - 2023.09.10：[开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！
 - 2023.09.01：2023年秋冬季开源操作系统训练营准备中。
 
-
-
 ## 以往信息
+
 ### [2023国家智能网联汽车创新中心训练营: 2023.08.02~2023.09.04](https://github.com/cicvedu)
-### [2023开源操作系统春夏季训练营：2023.04~2023.06](https://github.com/LearningOS/rust-based-os-comp2023/tree/2023springsummer)
+### [2023春夏季开源操作系统训练营：2023.04~2023.06](https://github.com/LearningOS/rust-based-os-comp2023/tree/2023springsummer)
+- [2023春夏季OS2训练营启动会回放](https://meeting.tencent.com/user-center/shared-record-info?id=2cd517b0-0d9a-4139-b3e0-2af4c8cdbd67)
+### [2022秋冬季开源操作系统训练营：2022.10~2022.12](https://github.com/LearningOS/rust-based-os-comp2022-1/blob/main/scheduling.md)
+- [2022秋冬季OS2训练营启动会回放](https://meeting.tencent.com/user-center/shared-record-info?id=00e0e809-1e03-4f41-8e6a-4e71c0ca1342)
+### [2022春夏季开源操作系统训练营：2022.06~2022.08](https://github.com/LearningOS/rust-based-os-comp2022-1/blob/main/scheduling.md)
+- 2022.07.05：晚上20:30 基于腾讯会议（会议号：201-785-984）召开"开源操作系统学习训练营开幕式
 ### [信息记录](./log.md)
 
 ## 自学自练&定期交流

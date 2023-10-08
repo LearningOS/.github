@@ -17,7 +17,7 @@
     - 9:00 优秀学员代表发言（杨金博、陈林峰、杨翔）
     - 9:15 合作单位代表发言（刘志坤、刘春）
     - 9:30 陈渝老师总结展望，希望寄语
-    - [**第一阶段训练安排**](https://github.com/LearningOS/rust-based-os-comp2023/2023-autumn-scheduling-1.md)
+    - [**第一阶段训练安排**]((https://github.com/LearningOS/rust-based-os-comp2023/blob/main/2023-autumn-scheduling-1.md))
 - 2023.09.21：2023年秋冬季开源操作系统训练营开启报名通道，以下是报名本期训练营的流程：
   1. 请感兴趣的小伙伴 [在线填写报名表](https://www.wjx.cn/vm/wUtNWVR.aspx) 。
   2. 报名表填写**提交之后**，会看到**加入本期训练营学员微信群**的二维码，请截图保存，或直接扫码入群。

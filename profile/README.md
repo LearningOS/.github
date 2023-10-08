@@ -27,11 +27,7 @@
 - 2023.09.10：[开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！
 - 2023.09.01：2023年秋冬季开源操作系统训练营准备中。
 
-## 以往信息
-
-
-
-### [信息记录](./profile/log.md)
+## [以往信息](./profile/log.md)
 
 ## 自学自练&定期交流
 

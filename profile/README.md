@@ -4,6 +4,7 @@
 - 2023.10.09: 训练营第一节课
   - [**第一节课ppt**](https://cloud.tsinghua.edu.cn/d/51b02806997d459783e0/files/?p=%2FRust%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AD%A6%E4%B9%A0.pdf)
   - [**第二节课ppt**](https://cloud.tsinghua.edu.cn/d/51b02806997d459783e0/files/?p=%2FRust%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%AD%A6%E4%B9%A0.pdf)
+  - [**第四节课ppt**](https://cloud.tsinghua.edu.cn/d/51b02806997d459783e0/files/?p=%2FRust%E7%AC%AC%E5%9B%9B%E6%AC%A1%E8%AF%BE.pptx)
 - 2023.10.08: 2023年秋冬季开源操作系统训练营启动会，请报名的同学参加。
   - 会议时间：2023/10/08 20:00-21:30
   - #腾讯会议：860-444-641

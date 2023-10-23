@@ -3,6 +3,7 @@
 ## [2023秋冬季开源操作系统训练营：2023.10.8~2023.12.3](https://github.com/LearningOS/rust-based-os-comp2023)
 - 2023.10.23: 训练营第二阶段
   - [**第二阶段训练相关安排**](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/2023-autumn-scheduling-2.md)
+  - [**第二阶段讲义链接**](https://sjodqtoogh.feishu.cn/docx/FICVde0z2okapCxTecPcCRoRnSd)
 - 2023.10.09: 训练营第一节课
   - [**第一节课ppt**](https://cloud.tsinghua.edu.cn/d/51b02806997d459783e0/files/?p=%2FRust%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AD%A6%E4%B9%A0.pdf)
   - [**第二节课ppt**](https://cloud.tsinghua.edu.cn/d/51b02806997d459783e0/files/?p=%2FRust%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%AD%A6%E4%B9%A0.pdf)

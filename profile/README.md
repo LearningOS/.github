@@ -5,6 +5,8 @@
   - [**第二阶段训练相关安排**](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/2023-autumn-scheduling-2.md)
   - [**第二阶段讲义链接**](https://sjodqtoogh.feishu.cn/docx/FICVde0z2okapCxTecPcCRoRnSd)
   - [**第二阶段部分资料链接**](https://cloud.tsinghua.edu.cn/d/51b02806997d459783e0/?p=%2F%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99&mode=list)
+  - [**第二阶段第一节课**](https://cloud.tsinghua.edu.cn/d/51b02806997d459783e0/files/?p=%2Frcore%E5%AD%A6%E4%B9%A0%2F%E4%BB%8E%E4%B8%80%E4%B8%AABare%20Metal%20APP%E5%BC%80%E5%A7%8B.pdf)
+  - [**第二阶段第二节课**](https://cloud.tsinghua.edu.cn/d/51b02806997d459783e0/files/?p=%2Frcore%E5%AD%A6%E4%B9%A0%2FrCore%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E5%92%8C%E9%A1%B5%E8%A1%A8.pdf)
 - 2023.10.09: 训练营第一节课
   - [**第一节课ppt**](https://cloud.tsinghua.edu.cn/d/51b02806997d459783e0/files/?p=%2FRust%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AD%A6%E4%B9%A0.pdf)
   - [**第二节课ppt**](https://cloud.tsinghua.edu.cn/d/51b02806997d459783e0/files/?p=%2FRust%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%AD%A6%E4%B9%A0.pdf)

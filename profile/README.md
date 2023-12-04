@@ -2,6 +2,8 @@
 
 ## [2023秋冬季开源操作系统训练营：2023.10.8~2023.12.3](https://github.com/LearningOS/rust-based-os-comp2023)
 - 2023.12.03：训练营圆满结束，新的征程即将开始！
+  - [**优秀学员名单**](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/excellent-students-2023winter.md)
+  - [**结业学员名单**](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/graduate-students-2023winter.md)
   - [**训练营结营仪式-videos**](https://meeting.tencent.com/v2/cloud-record/share?id=54cbe9a8-fa09-4ac4-82ce-5888129808e7&from=3)
 - 2023.11.05：训练营第三阶段启动：[**第三阶段项目实习选题会-videos**](https://meeting.tencent.com/v2/cloud-record/share?id=54cbe9a8-fa09-4ac4-82ce-5888129808e7&from=3)
 - 2023.10.23: 训练营第二阶段
@@ -16,21 +18,7 @@
   - [**第四节课ppt**](https://cloud.tsinghua.edu.cn/d/51b02806997d459783e0/files/?p=%2FRust%E7%AC%AC%E5%9B%9B%E6%AC%A1%E8%AF%BE.pptx)
   - [**第五节课ppt**](https://cloud.tsinghua.edu.cn/d/51b02806997d459783e0/files/?p=%2F%E7%AC%AC%E4%BA%94%E6%AC%A1%E8%AF%BE%E7%A8%8Bppt.pptx)
   - [**第六节课ppt**](https://cloud.tsinghua.edu.cn/d/51b02806997d459783e0/files/?p=%2F%E7%AC%AC%E5%85%AD%E6%AC%A1%E8%AF%BE%E7%A8%8B.pptx)
-- 2023.10.08: 2023年秋冬季开源操作系统训练营启动会，请报名的同学参加。
-  - 会议时间：2023/10/08 20:00-21:30
-  - #腾讯会议：860-444-641
-  - 会议链接：https://meeting.tencent.com/dm/28ysFj7tdYQW
-  - 会议安排：
-    - 8:00 北京大学陈向群老师发言，介绍OS大赛，做希望寄语
-    - 8:05 清华大学陈渝老师主持，回顾训练营发展历史
-    - 8:10 李明老师总结本期训练营报名情况
-    - 8:20 朱懿老师介绍本期训练营课程体系和师资安排
-    - 8:30 清华大学向勇老师介绍训练营的各项管理要求和开源毕设情况
-    - 8:40 讲师代表发言（徐启航/胡柯洋）
-    - 8:50 项目实习导师代表发言（石磊/何家胜）
-    - 9:00 优秀学员代表发言（杨金博、陈林峰、杨翔）
-    - 9:15 合作单位代表发言（刘志坤、刘春）
-    - 9:30 陈渝老师总结展望，希望寄语
+- 2023.10.08: 2023年秋冬季开源操作系统训练营启动：[**训练营启动会-videos**](https://meeting.tencent.com/v2/cloud-record/share?id=01c332dd-3787-4e2b-97dd-faa15caf7f73&from=3)
     - [**第一阶段训练安排**](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/2023-autumn-scheduling-1.md)
     - [**启动会相关资料链接**](https://cloud.tsinghua.edu.cn/d/51b02806997d459783e0/?p=%2F%E5%90%AF%E5%8A%A8%E4%BC%9A&mode=list)
 - 2023.09.21：2023年秋冬季开源操作系统训练营开启报名通道，以下是报名本期训练营的流程：

@@ -19,7 +19,8 @@
   - [**第四节课ppt**](https://cloud.tsinghua.edu.cn/d/51b02806997d459783e0/files/?p=%2FRust%E7%AC%AC%E5%9B%9B%E6%AC%A1%E8%AF%BE.pptx)
   - [**第五节课ppt**](https://cloud.tsinghua.edu.cn/d/51b02806997d459783e0/files/?p=%2F%E7%AC%AC%E4%BA%94%E6%AC%A1%E8%AF%BE%E7%A8%8Bppt.pptx)
   - [**第六节课ppt**](https://cloud.tsinghua.edu.cn/d/51b02806997d459783e0/files/?p=%2F%E7%AC%AC%E5%85%AD%E6%AC%A1%E8%AF%BE%E7%A8%8B.pptx)
-- 2023.10.08: 2023年秋冬季开源操作系统训练营启动：[**训练营启动会-videos**](https://meeting.tencent.com/v2/cloud-record/share?id=01c332dd-3787-4e2b-97dd-faa15caf7f73&from=3)
+- 2023.10.08: 2023年秋冬季开源操作系统训练营启动！
+    - [**训练营启动会-videos**](https://meeting.tencent.com/v2/cloud-record/share?id=01c332dd-3787-4e2b-97dd-faa15caf7f73&from=3)
     - [**第一阶段训练安排**](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/2023-autumn-scheduling-1.md)
     - [**启动会相关资料链接**](https://cloud.tsinghua.edu.cn/d/51b02806997d459783e0/?p=%2F%E5%90%AF%E5%8A%A8%E4%BC%9A&mode=list)
 - 2023.09.21：2023年秋冬季开源操作系统训练营开启报名通道，以下是报名本期训练营的流程：

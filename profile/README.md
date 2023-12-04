@@ -5,7 +5,8 @@
   - [**优秀学员名单**](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/excellent-students-2023winter.md)
   - [**结业学员名单**](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/graduate-students-2023winter.md)
   - [**训练营结营仪式-videos**](https://meeting.tencent.com/v2/cloud-record/share?id=54cbe9a8-fa09-4ac4-82ce-5888129808e7&from=3)
-- 2023.11.05：训练营第三阶段启动：[**第三阶段项目实习选题会-videos**](https://meeting.tencent.com/v2/cloud-record/share?id=54cbe9a8-fa09-4ac4-82ce-5888129808e7&from=3)
+- 2023.11.05：训练营第三阶段启动！
+  - [**第三阶段项目实习选题会-videos**](https://meeting.tencent.com/v2/cloud-record/share?id=54cbe9a8-fa09-4ac4-82ce-5888129808e7&from=3)
 - 2023.10.23: 训练营第二阶段
   - [**第二阶段训练相关安排**](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/2023-autumn-scheduling-2.md)
   - [**第二阶段讲义链接**](https://sjodqtoogh.feishu.cn/docx/FICVde0z2okapCxTecPcCRoRnSd)

@@ -1,8 +1,8 @@
 # the Learning&Training Hub of OS Kernel
 
 ## [2024春夏季开源操作系统训练营：2024.4.7~2024.6.7](https://github.com/LearningOS/rust-based-os-comp2024)
--2024.3.15:[开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！
--2024.3.15:2024年春夏季开源操作系统训练营准备中。
+- 2024.3.15:[开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！
+- 2024.3.15:2024年春夏季开源操作系统训练营准备中。
 
 
 ## [以往信息](./profile/log.md)

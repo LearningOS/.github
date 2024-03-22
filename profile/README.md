@@ -1,6 +1,6 @@
 # the Learning&Training Hub of OS Kernel
 
-## [2024春夏季开源操作系统训练营：2024.4.7~2024.6.7](https://github.com/LearningOS/rust-based-os-comp2024)
+## [2024春夏季开源操作系统训练营：2024.4.7~2024.6.30](https://github.com/LearningOS/rust-based-os-comp2024)
 - 2024.3.21:2024春夏季开源操作系统训练营开启报名通道，以下是报名本期训练营的流程：
   1. 请感兴趣的小伙伴 [点击报名链接](https://opencamp.cn/os2edu/camp/2024spring/register?code=epLZ6ZPBvc37)
   2. 根据报名链接的指引，在报名链接中填写相关信息报名，并扫码添加班主任微信进群

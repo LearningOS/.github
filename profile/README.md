@@ -9,7 +9,7 @@
   5. 如果希望在自己所在的高校社团或者企业内部对训练营做宣传推广，可以加李明老师微信联系（微信id：limingth）
 - 2024.3.15:[开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！
 - 2024.3.15:2024年春夏季开源操作系统训练营准备中。
-- [2024年春季清华计算机系本科生OS课大实验的选题和参考资源](https://github.com/LearningOS/os-lectures/blob/master/oslabs/biglab-relatedinfo.md)，欢迎感兴趣的同学和爱好者联系训练营助教（朱懿 微信号 ZhiyuanSue ），申请好友请说明“参加OS大实验”，加入兴趣小组，一起参与探索并挑战未来。
+- [2024年春季清华计算机系本科生OS课大实验的选题和参考资源](https://github.com/LearningOS/os-lectures/blob/master/oslabs/biglab-relatedinfo.md)，欢迎感兴趣的同学和爱好者联系训练营助教（朱懿 微信号 ZhiyuanSue ），申请好友请说明“参加OS大实验”，加入兴趣小组（在下面搜索 osbiglab-2024s-*，可以看到目前准备做的项目），一起参与探索并挑战未来。
 
 
 ## [以往信息](./profile/log.md)

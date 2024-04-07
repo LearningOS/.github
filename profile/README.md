@@ -1,11 +1,15 @@
 # the Learning&Training Hub of OS Kernel
 
 ## [2024春夏季开源操作系统训练营：2024.4.7~2024.6.30](https://github.com/LearningOS/rust-based-os-comp2024)
-- 2024.4.7:2024年春夏季开源操作系统训练营开营仪式即将在**4.7日周日晚8点**开始
+- 2024.4.7:2024年春夏季开源操作系统训练营开营仪式于**4.7日周日晚8点**开始
   
-  开营仪式将由**陈渝老师**主持，**陈向群老师、向勇老师和李明老师**等嘉宾出席，介绍本次训练营的相关情况
-
-  欢迎训练营的同学们在**4月7日晚8点**，通过**腾讯会议号[958-329-838](https://meeting.tencent.com/dm/vtBcBxPH42w7)** 线上参与本次训练营的启动仪式，并开启为期约三个月的训练营之旅
+  开营仪式由**陈渝老师**主持，**陈向群老师、向勇老师和李明老师**等嘉宾出席，介绍本次训练营的相关情况
+  
+  春夏季OS训练营顺利启动！以下是相关回顾链接
+  
+  [2024春夏季开源操作系统训练营启动会-video](https://meeting.tencent.com/user-center/shared-record-info?id=95ecb9c0-64f2-4934-a671-78474f735af2&from=3&record_type=2) 密码0407
+  
+  [启动会相关ppt资料](https://cloud.tsinghua.edu.cn/d/a87b5cbcfac04947b17c/)
 - 2024.3.21:2024春夏季开源操作系统训练营开启报名通道，以下是报名本期训练营的流程：
   1. 请感兴趣的小伙伴 [点击报名链接](https://opencamp.cn/os2edu/camp/2024spring/register?code=epLZ6ZPBvc37)
   2. 根据报名链接的指引，在报名链接中填写相关信息报名，并扫码添加班主任微信进群

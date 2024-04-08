@@ -7,9 +7,9 @@
   
   春夏季OS训练营顺利启动！以下是相关回顾链接
   
-  [2024春夏季开源操作系统训练营启动会-video](https://meeting.tencent.com/user-center/shared-record-info?id=95ecb9c0-64f2-4934-a671-78474f735af2&from=3&record_type=2) 密码0407
-  
-  [启动会相关ppt资料](https://cloud.tsinghua.edu.cn/d/a87b5cbcfac04947b17c/)
+  - [2024春夏季开源操作系统训练营启动会-video](https://meeting.tencent.com/user-center/shared-record-info?id=95ecb9c0-64f2-4934-a671-78474f735af2&from=3&record_type=2) 密码0407
+  - [启动会相关ppt资料](https://cloud.tsinghua.edu.cn/d/a87b5cbcfac04947b17c/)
+  - [2024春夏季训练营第一阶段安排](https://github.com/LearningOS/rust-based-os-comp2024/blob/main/2024-spring-scheduling-1.md) ，包括了第一阶段训练营的作业链接，各类参考链接等信息
 - 2024.3.21:2024春夏季开源操作系统训练营开启报名通道，以下是报名本期训练营的流程：
   1. 请感兴趣的小伙伴 [点击报名链接](https://opencamp.cn/os2edu/camp/2024spring/register?code=epLZ6ZPBvc37)
   2. 根据报名链接的指引，在报名链接中填写相关信息报名，并扫码添加班主任微信进群

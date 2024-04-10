@@ -1,6 +1,8 @@
 # the Learning&Training Hub of OS Kernel
 
 ## [2024春夏季开源操作系统训练营：2024.4.7~2024.6.30](https://github.com/LearningOS/rust-based-os-comp2024)
+- 训练营第一阶段资料
+  - [第一节课ppt](https://cloud.tsinghua.edu.cn/f/fd23a79ab58f49f6891c/)
 - 2024.4.7:2024年春夏季开源操作系统训练营开营仪式于**4.7日周日晚8点**开始
   
   开营仪式由**陈渝老师**主持，**王雷老师、向勇老师和李明老师**等嘉宾出席，介绍本次训练营的相关情况

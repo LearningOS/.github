@@ -11,6 +11,8 @@
   - （第六节课为直播答疑课程，没有ppt，请转到训练营页面查看回放）
   - [第七节课ppt](https://slidev.dawnmagnet.xyz/os2rustalgo1)
   - [第八节课ppt](https://slidev.dawnmagnet.xyz/os2rustalgo2)
+  - [第九节课ppt](https://slidev.dawnmagnet.xyz/os2rustalgo3)
+  - [训练营第一阶段总结报告汇总](https://rcore-os.cn/blog/archives/)
 - 2024.4.7:2024年春夏季开源操作系统训练营开营仪式于**4.7日周日晚8点**开始
   
   开营仪式由**陈渝老师**主持，**王雷老师、向勇老师和李明老师**等嘉宾出席，介绍本次训练营的相关情况

@@ -1,6 +1,8 @@
 # the Learning&Training Hub of OS Kernel
 
 ## [2024春夏季开源操作系统训练营：2024.4.7~2024.6.30](https://github.com/LearningOS/rust-based-os-comp2024)
+- 训练营第二阶段资料
+  - [2024春夏季训练营第二阶段安排](https://github.com/LearningOS/rust-based-os-comp2024/blob/main/2024-spring-scheduling-2.md)
 - 训练营第一阶段资料
   - [常见问题Q&A](https://docs.qq.com/doc/DY3VMc0tOc29KTWZ5)
   - [第一节课ppt](https://cloud.tsinghua.edu.cn/f/fd23a79ab58f49f6891c/)

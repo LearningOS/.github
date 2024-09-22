@@ -1,6 +1,6 @@
 # the Learning&Training Hub of OS Kernel
 
-## [2024秋冬季开源操作系统训练营：2024.9.29~2024.12.22](https://github.com/LearningOS/rust-based-os-comp2024)
+## [2024秋冬季开源操作系统训练营：2024.9.29~2024.12.22](https://github.com/LearningOS/rust-based-os-comp2024/blob/main/2024-autumn-scheduling-1.md)
 
 - 2024.4.7: 2024年秋冬季开源操作系统训练营开营仪式将于**9月29日周日晚8点(UTC+8)**开始
   

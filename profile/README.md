@@ -29,6 +29,10 @@
 
 ## 自学自练&定期交流
 
+### 榜样
+- [浙江大学本科生徐文浩2020开源操作系统训练营的过程记录](https://github.com/LearningOS/record)
+- [湖南大学本科生肖政杭的自学ucore for x86的过程记录](https://kiprey.github.io/tags/uCore/)
+
 ### Self Learning
 - [Easy --> Normal  --> Hard ： Rust Programming & RISC-V arch & OS courses & Advanced OS courses & other learning resources](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/relatedinfo.md)
  
@@ -63,6 +67,8 @@
 - [2023国家智能网联汽车创新中心训练营: 2023.08.02~2023.09.04](https://github.com/cicvedu),欢迎关注！
   
 ## 相关开源社区
+- [内核组件汇聚开源社区](https://github.com/kern-crates) 汇聚了各种各样的内核组件，并进行分析、测试和管理
+- [组件化OS--ArceOS开源社区](https://github.com/arceos-org/arceos) 探索多构型内核组件化设计
 - [rCoreOS开源社区](https://github.com/rcore-os)，面向新型安全高性能操作系统探索与实践
 - [OS比赛开源社区](https://github.com/oscomp)，面向全国高校学生的OS比赛
 - [syswonder开源社区](https://syswonder.org/)，面向泛在技术的操作系统探索

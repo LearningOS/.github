@@ -2,6 +2,8 @@
 
 ## [2024秋冬季开源操作系统训练营：2024.9.29~2024.12.22](https://github.com/LearningOS/rust-based-os-comp2024/blob/main/2024-autumn-scheduling-1.md)
 
+- 2024.12.01：2024年秋冬季开源操作系统训练营 项目实习阶段 - 四个实习方向 正式开始，为期三周
+- 2024.11.11：2024年秋冬季开源操作系统训练营第三阶段 项目基础阶段 - 组件化操作系统 正式开始，为期三周
 - 2024.10.21: 2024年秋冬季开源操作系统训练营第二阶段 专业阶段 - OS设计实现 正式开始，为期两周
 - 2024.10.20: 2024年秋冬季开源操作系统训练营第一阶段 基础阶段 - Rust编程 结束，[晋级榜单](https://opencamp.cn/os2edu/camp/2024fall/stage/1?tab=rank)
 - 2024.10.20: [华科线上宣讲-开源社区维护者大揭秘第二期](https://mp.weixin.qq.com/s/sKbtZvZeratoqry0xL1x7Q) [精彩回顾](https://mp.weixin.qq.com/s/xpJYwYknQ-4Snsa-S3Qedw) [视频回看](https://www.bilibili.com/video/BV1U3yqYKEJD?spm_id_from=333.788.videopod.sections&vd_source=ae115ac7125d35a3214b2d8361d52eff)

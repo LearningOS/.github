@@ -52,11 +52,11 @@
 - [Hard *** ：Design OS Kernel(run linux apps)](https://github.com/LearningOS/oscomp-kernel-training)
 - [ranking list：oscomp](https://os-autograding.github.io/classroom-grading-template/)
 
-#### (Option) Component OS Kernel Design & Implementation
+#### Component OS Kernel Design & Implementation
 - [Normal -- Hard  ：Design OS Components -- OS Kernel Framework -- Apps](https://github.com/rcore-os/arceos)
 - [some ideas&progress](https://github.com/orgs/rcore-os/discussions/categories/ideas)
 - 
-#### (Option) Hypervisor Design & Implementation
+#### Hypervisor Design & Implementation
 - [Normal -- Hard  ：Design Hypervisor](https://github.com/LearningOS/RVM-Tutorial)
 - [some ideas&progress](https://github.com/orgs/rcore-os/discussions/13)
 

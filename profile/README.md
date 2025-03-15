@@ -72,7 +72,7 @@
 ## 相关开源社区
 - [内核组件汇聚中心](https://github.com/kern-crates) 汇聚了各种各样的内核组件，并进行分析、测试和管理
 - [ArceOS开源社区](https://github.com/arceos-org/arceos) 探索多构型内核组件化设计
-- [唐图(rCoreOS)开源社区](https://github.com/rcore-os)，开展多构型内核组件化设计与实现的教学与科研探索
-- [OS比赛开源社区](https://github.com/oscomp)，面向全国高校学生的OS比赛
-- [syswonder开源社区](https://syswonder.org/)，面向泛在技术的操作系统探索
-- [智能网联汽车创新中心训练营:开源操作系统](https://github.com/cicvedu)，面向智能驾驶领域的系统软件开发培训
+- [唐图(rCoreOS)开源社区](https://github.com/rcore-os) 开展多构型内核组件化设计与实现的教学与科研探索
+- [OS比赛开源社区](https://github.com/oscomp) 面向全国高校学生的OS比赛
+- [syswonder开源社区](https://syswonder.org/) 面向泛在技术的操作系统探索
+- [智能网联汽车创新中心训练营:开源操作系统](https://github.com/cicvedu) 面向智能驾驶领域的系统软件开发培训

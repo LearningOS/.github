@@ -1,32 +1,9 @@
 # the Learning&Training Hub of OS Kernel
 
-## [2024秋冬季开源操作系统训练营：2024.9.29~2024.12.22](https://github.com/LearningOS/rust-based-os-comp2024/blob/main/2024-autumn-scheduling-1.md)
+## [2025春夏季开源操作系统训练营：2025.3.30~2025.6.22](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-summary.md)
 
-- 2024.12.02：2024年秋冬季开源操作系统训练营 项目实习阶段 - 四个实习方向 正式开始，为期三周
-- 2024.12.01：2024年秋冬季开源操作系统训练营 第三阶段实习交流会顺利举办。[视频回放(密码 1201)](https://meeting.tencent.com/cw/KEoDMqZG91)
-- 2024.11.11：2024年秋冬季开源操作系统训练营第三阶段 项目基础阶段 - 组件化操作系统 正式开始，为期三周
-- 2024.10.21: 2024年秋冬季开源操作系统训练营第二阶段 专业阶段 - OS设计实现 为期三周 [二阶段晋级榜单](https://opencamp.cn/os2edu/camp/2024fall/stage/2?tab=rank)
-- 2024.10.20: 2024年秋冬季开源操作系统训练营第一阶段 基础阶段 - Rust编程 为期三周 [一阶段晋级榜单](https://opencamp.cn/os2edu/camp/2024fall/stage/1?tab=rank)
-- 2024.10.20: [华科线上宣讲-开源社区维护者大揭秘第二期](https://mp.weixin.qq.com/s/sKbtZvZeratoqry0xL1x7Q) [精彩回顾](https://mp.weixin.qq.com/s/xpJYwYknQ-4Snsa-S3Qedw) [视频回看](https://www.bilibili.com/video/BV1U3yqYKEJD?spm_id_from=333.788.videopod.sections&vd_source=ae115ac7125d35a3214b2d8361d52eff)
-- 2024.10.7: [华科线上宣讲-开源社区维护者大揭秘第一期](https://mp.weixin.qq.com/s/-DRyBHQnqln6Nsnf76csaw) [精彩回顾](https://mp.weixin.qq.com/s/xpJYwYknQ-4Snsa-S3Qedw) [视频回看](https://www.bilibili.com/video/BV1fL2EYBExb?spm_id_from=333.788.videopod.sections&vd_source=ae115ac7125d35a3214b2d8361d52eff)
-- 2024.9.29: [2024年秋冬季开源操作系统训练营开营仪式视频回放](https://meeting.tencent.com/v2/cloud-record/share?id=1013a94c-fadb-4c66-8139-5acacd19d694&from=3&record_type=2)
-- 2024.9.27: 2024年秋冬季开源操作系统训练营开营仪式将于**9月29日周日晚8点(UTC+8)**开始
-  
-  开营仪式由**陈渝老师**主持，**北大陈向群老师、清华向勇老师，泉城实验室杨波主任，VIVO杨春总经理，开放原子基金会教育培训部部长王岩广老师，训练营负责人李明老师**等出席，开营会议上将介绍本次训练营的相关情况，往届优秀学员的经验分享，助教老师的课程内容简介等。
-
-  - [启动会相关PPT资料](https://cloud.tsinghua.edu.cn/d/3d4fcd34bfa148b58fe6/)
-
-  
-- [2024秋冬季训练营通知](https://mp.weixin.qq.com/s/ksJ-EUITOmHbcQJv9rQ2jw) ，包括了训练营的日程、项目方向、实习内容等信息
-
-- 2024.9.18: 2024秋冬季开源操作系统训练营开启报名通道，以下是报名本期训练营的流程：
-  1. 请感兴趣的小伙伴 [点击报名链接](https://opencamp.cn/os2edu/camp/2024fall/register?code=FkfH4vsjjeT9)
-  2. 根据报名链接的指引，在报名链接中填写相关信息报名，并扫码添加班主任微信进群
-  3. 如果因为各种原因需要管理员手动加群，请添加管理员微信号 rustedu 手工加群
-  4. 小伙伴们还可以在报名页面点击分享链接，邀请其他小伙伴们参与训练营
-  5. 如果希望在自己所在的高校社团或者企业内部对训练营做宣传推广，可以加李明老师微信联系（微信id：limingth）
-
-- 2024.9.18: 2024年秋冬季开源操作系统训练营准备中。
+- 2025.3.19: 2025年春夏季开源操作系统训练营发布[相关信息](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-summary.md)。
+- 2025.3.15: 2025年春夏季开源操作系统训练营准备中。
 
 ## [以往信息](./log.md)
 
@@ -41,10 +18,10 @@
  
 ### Self Training
 #### Rust Language
-- [Easy ：stage1: Rust-lang & RISC-V arch training](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/scheduling-1.md)
+- [Easy ：stage1: Rust-lang & RISC-V arch training](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-scheduling-1.md)
 - [ranking list：Rust Lang](https://learningos.github.io/rust-rustlings-ranking/)
 #### C or Rust base Simple OS Kernel
-- [Normal ：stage2: C/Rust-based OS kernel Training](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/scheduling-2.md)
+- [Normal ：stage2: C/Rust-based OS kernel Training](https://github.com/LearningOS/rust-based-os-comp2024/blob/main/2024-autumn-scheduling-2.md)
 - [ranking list：uCore Tutorial]( https://learningos.github.io/2023S-OS-uCore-Classroom-Rank-list/)
 - [ranking list：rCore Tutorial]( https://learningos.github.io/2023S-OS-rCore-Classroom-Rank-list/)
   

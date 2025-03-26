@@ -26,9 +26,9 @@
 - [ranking list：uCore Tutorial]( https://learningos.github.io/2023S-OS-uCore-Classroom-Rank-list/)
 - [ranking list：rCore Tutorial]( https://learningos.github.io/2023S-OS-rCore-Classroom-Rank-list/)
   
-#### OS Kernel Design&Impl (全国大学生操作系统比赛内核赛道实战模拟)
-- [Hard  ：Design OS Kernel(run linux apps)](https://github.com/LearningOS/oscomp-kernel-training)
-- [ranking list：oscomp](https://os-autograding.github.io/classroom-grading-template/)
+#### OS Kernel Design&Impl (类似全国大学生操作系统比赛内核赛道实战：构造OS kernel)
+- [Hard:Design OS Kernel to run linux apps)](https://github.com/LearningOS/learningos-classroom-oscomp)
+- [构造OS kernel排行榜](https://learningos.cn/oscomptest-grading)
 
 #### Component OS Kernel Design & Implementation
 - [Normal -- Hard  ：Design OS Components -- OS Kernel Framework -- Apps](https://github.com/rcore-os/arceos)

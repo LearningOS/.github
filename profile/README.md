@@ -46,10 +46,8 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 **注2：如果想选择可选项目的学生和工程师，请在完成第二阶段的训练后，请与助教和老师联系。这些项目属于有一定创新性的题目，得到了国家实验室、国家创新中心、头部企业和高校研究生导师的直接支持，在就业和学业发展上有新的挑战和机会。**
 
 ## 开展新的探索
-- [ArceOS源码仓库](https://github.com/rcore-os/arceos)，鼓励探索学习与交流！
 - [开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！
-- [2023国家智能网联汽车创新中心训练营: 2023.08.02~2023.09.04](https://github.com/cicvedu),欢迎关注！
-  
+
 ## 相关开源社区
 - [内核组件汇聚中心](https://github.com/kern-crates) 汇聚了各种各样的内核组件，并进行分析、测试和管理
 - [ArceOS开源社区](https://github.com/arceos-org/arceos) 探索多构型内核组件化设计

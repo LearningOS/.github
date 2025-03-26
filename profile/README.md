@@ -30,7 +30,7 @@
 构造支持linux syscalls的OS kernel on RV64/LA64/AARCH64/X64，类似全国大学生操作系统比赛内核赛道实战 
 - [Hard:Design OS Kernel to run linux apps](https://github.com/LearningOS/learningos-classroom-oscomp)
 - [创建OS kernel Comp练习教室](https://classroom.github.com/a/END-WGn8)
-- [OS kernel排行榜](https://learningos.cn/oscomptest-grading)
+- [OS kernel Comp排行榜](https://learningos.cn/oscomptest-grading)
 
 #### Component OS Kernel Design & Implementation
 - [Normal -- Hard  ：Design OS Components -- OS Kernel Framework -- Apps](https://github.com/rcore-os/arceos)

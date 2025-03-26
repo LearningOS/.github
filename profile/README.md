@@ -19,7 +19,8 @@
 ### Self Training
 #### Rust Language
 - [Easy ：stage1: Rust-lang & RISC-V arch training](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-scheduling-1.md)
-- [ranking list：Rust Lang](https://learningos.github.io/rust-rustlings-ranking/)
+- [创建rustling练习教室](https://classroom.github.com/a/S8vP0lDr)
+- [rustling练习排行榜](https://opencamp.cn/os2edu/camp/2025spring/stage/1?tab=rank)
 #### C or Rust base Simple OS Kernel
 - [Normal ：stage2: C/Rust-based OS kernel Training](https://github.com/LearningOS/rust-based-os-comp2024/blob/main/2024-autumn-scheduling-2.md)
 - [ranking list：uCore Tutorial]( https://learningos.github.io/2023S-OS-uCore-Classroom-Rank-list/)

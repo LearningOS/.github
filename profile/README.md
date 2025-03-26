@@ -19,18 +19,19 @@
 ### Self Training
 #### Rust Language
 - [Easy ：stage1: Rust-lang & RISC-V arch training](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-scheduling-1.md)
-- [创建rustling练习教室](https://classroom.github.com/a/S8vP0lDr)
-- [rustling练习排行榜](https://opencamp.cn/os2edu/camp/2025spring/stage/1?tab=rank)
-#### C or Rust base Simple OS Kernel
-- [Normal ：stage2: C/Rust-based OS kernel Training](https://github.com/LearningOS/rust-based-os-comp2024/blob/main/2024-autumn-scheduling-2.md)
-- [ranking list：uCore Tutorial]( https://learningos.github.io/2023S-OS-uCore-Classroom-Rank-list/)
-- [ranking list：rCore Tutorial]( https://learningos.github.io/2023S-OS-rCore-Classroom-Rank-list/)
+- [创建rustling练习教室](https://classroom.github.com/a/S8vP0lDr) 点击后按提示可以建立自己的rustling实验专用仓库
+- [rustling练习排行榜](https://opencamp.cn/os2edu/camp/2025spring/stage/1?tab=rank) 可以查看自己的rusting实验的排名情况
+#### Rust base Simple OS Kernel
+rCore Tutorial来自清华大学计算机系本科操作系统课实验
+- [Normal ：stage2: Rust-based OS kernel Training](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-scheduling-2.md)
+- [创建 rCore Tutorial练习教室](https://classroom.github.com/a/pTgmDIG6) 点击后按提示可以建立自己的rCore Tutorial实验专用仓库
+- [rCore Tutorial练习排行榜](https://opencamp.cn/os2edu/camp/2025spring/stage/2?tab=rank) 可以查看自己的rCore Tutorial实验的排名情况
   
 #### OS Kernel Design&Impl 
 构造支持linux syscalls的OS kernel on RV64/LA64/AARCH64/X64，类似全国大学生操作系统比赛内核赛道实战 
 - [Hard:Design OS Kernel to run linux apps](https://github.com/LearningOS/learningos-classroom-oscomp)
-- [创建OS kernel Comp练习教室](https://classroom.github.com/a/END-WGn8)
-- [OS kernel Comp排行榜](https://learningos.cn/oscomptest-grading)
+- [创建OS kernel Comp练习教室](https://classroom.github.com/a/END-WGn8) 点击后按提示可以建立自己的OS kernel Comp实验专用仓库
+- [OS kernel Comp练习排行榜](https://learningos.cn/oscomptest-grading) 可以查看自己的OS kernel Comp实验的排名情况
 
 #### Component OS Kernel Design & Implementation
 - [Normal -- Hard  ：Design OS Components -- OS Kernel Framework -- Apps](https://github.com/rcore-os/arceos)

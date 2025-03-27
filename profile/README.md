@@ -40,7 +40,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 #### OS Kernel Design&Impl 
 构造支持linux syscalls的OS kernel on RV64/LA64/AARCH64/X64，类似全国大学生操作系统比赛内核赛道实战 
 - [opencamp课程-项目一：基于ArceOS组件的宏内核- Starry-Next](https://opencamp.cn/os2edu/camp/2025spring/stage/5)
-- [Hard ：Design OS Kernel to run linux apps](https://github.com/LearningOS/learningos-classroom-oscomp)
+- [Hard ：Design OS Kernel to run linux apps](https://github.com/LearningOS/learningos-classroom-oscomp) 2025年开源操作系统训练营 oskernel训练仓库模板
 - [Starry-Next实验指导书](https://azure-stars.github.io/Starry-Tutorial-Book/)
 - [创建OS kernel Comp练习教室](https://classroom.github.com/a/END-WGn8) 点击后按提示可以建立自己的OS kernel Comp实验专用仓库
 - [OS kernel Comp练习排行榜](https://learningos.cn/oscomptest-grading) 可以查看自己的OS kernel Comp实验的排名情况

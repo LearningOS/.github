@@ -33,8 +33,8 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 #### Foundation of Component OS Kernel Design & Implementation
 - [opencamp课程-项目基础阶段 - 组件化操作系统](https://opencamp.cn/os2edu/camp/2025spring/stage/3)
 - [Normal -- Hard  ：Design OS Components -- OS Kernel Framework -- Apps](https://github.com/rcore-os/arceos)
-  - [arceos tutorial文档一（待进一步更新），欢迎合作者一起撰写](https://oslearning365.github.io/arceos-tutorial-book/)
-  - [arceos tutorial文档二（待进一步更新），欢迎合作者一起撰写](https://oslearning365.github.io/arceos-tutorial-book/) 
+  - [arceos tutorial文档一](https://oslearning365.github.io/arceos-tutorial-book/) 有进一步更新计划，欢迎合作者联系我们
+  - [arceos tutorial文档二](https://oslearning365.github.io/arceos-tutorial-book/) 有进一步更新计划，欢迎合作者联系我们
 - [some ideas&progress](https://github.com/orgs/rcore-os/discussions/categories/ideas)
   
 #### OS Kernel Design&Impl 

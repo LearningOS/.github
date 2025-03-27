@@ -37,15 +37,20 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
   
 #### OS Kernel Design&Impl 
 构造支持linux syscalls的OS kernel on RV64/LA64/AARCH64/X64，类似全国大学生操作系统比赛内核赛道实战 
-- [项目一：基于ArceOS组件的宏内核- Starry Next](https://opencamp.cn/os2edu/camp/2025spring/stage/5)
+- [opencamp课程-项目一：基于ArceOS组件的宏内核- Starry Next](https://opencamp.cn/os2edu/camp/2025spring/stage/5)
 - [Hard ：Design OS Kernel to run linux apps](https://github.com/LearningOS/learningos-classroom-oscomp)
 - [创建OS kernel Comp练习教室](https://classroom.github.com/a/END-WGn8) 点击后按提示可以建立自己的OS kernel Comp实验专用仓库
 - [OS kernel Comp练习排行榜](https://learningos.cn/oscomptest-grading) 可以查看自己的OS kernel Comp实验的排名情况
 
   
 #### Hypervisor Design & Implementation
-- [Normal -- Hard  ：Design Hypervisor](https://github.com/LearningOS/RVM-Tutorial)
+- [opencamp课程-项目二：基于ArceOS组件的Hypervisor- AxVisor](https://opencamp.cn/os2edu/camp/2025spring/stage/6)
+- [Normal -- Hard  ：Design Hypervisor晓丽小例子](https://github.com/LearningOS/RVM-Tutorial)
+  - [RVM-Tutorial 文档](https://github.com/equation314/RVM-Tutorial/wiki)
 - [some ideas&progress](https://github.com/orgs/rcore-os/discussions/13)
+
+#### Hypervisor Design & Implementation
+- [opencamp课程-项目三：基于协程异步机制的操作系统/驱动](https://opencamp.cn/os2edu/camp/2025spring/stage/7)
 
 **注1：如果对（Option）训练内容或定制培训内容感兴趣，请联系LearningOS开源社区负责人李明老师（微信id：limingth）。**
 

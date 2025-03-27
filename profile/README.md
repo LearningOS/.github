@@ -30,7 +30,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [rCore Tutorial练习排行榜](https://opencamp.cn/os2edu/camp/2025spring/stage/2?tab=rank) 可以查看自己的rCore Tutorial实验的排名情况
 
 
-#### Component OS Kernel Design & Implementation
+#### Foundation of Component OS Kernel Design & Implementation
 - [opencamp课程-项目基础阶段 - 组件化操作系统](https://opencamp.cn/os2edu/camp/2025spring/stage/3)
 - [Normal -- Hard  ：Design OS Components -- OS Kernel Framework -- Apps](https://github.com/rcore-os/arceos)
 - [some ideas&progress](https://github.com/orgs/rcore-os/discussions/categories/ideas)
@@ -49,7 +49,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
   - [RVM-Tutorial 文档](https://github.com/equation314/RVM-Tutorial/wiki)
 - [some ideas&progress](https://github.com/orgs/rcore-os/discussions/13)
 
-#### Hypervisor Design & Implementation
+#### OS kernel/driver based on the asynchronous mechanism of coroutines
 - [opencamp课程-项目三：基于协程异步机制的操作系统/驱动](https://opencamp.cn/os2edu/camp/2025spring/stage/7)
 
 **注1：如果对（Option）训练内容或定制培训内容感兴趣，请联系LearningOS开源社区负责人李明老师（微信id：limingth）。**

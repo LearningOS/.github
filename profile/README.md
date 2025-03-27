@@ -31,14 +31,21 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 
 
 #### Foundation of Component OS Kernel Design & Implementation
+打好基础：理解如何基于组件来组合出多种构型的操作系统内核
 - [opencamp课程-项目基础阶段 - 组件化操作系统](https://opencamp.cn/os2edu/camp/2025spring/stage/3)
+  - [2024年秋冬季训练营教学视频回放和slides](https://opencamp.cn/os2edu/camp/2024fall/stage/3?tab=video) 
 - [Normal -- Hard  ：Design OS Components -- OS Kernel Framework -- Apps](https://github.com/rcore-os/arceos)
   - [arceos tutorial文档一](https://oslearning365.github.io/arceos-tutorial-book/) 有进一步更新计划，欢迎合作者联系我们
   - [arceos tutorial文档二](https://oslearning365.github.io/arceos-tutorial-book/) 有进一步更新计划，欢迎合作者联系我们
 - [some ideas&progress](https://github.com/orgs/rcore-os/discussions/categories/ideas)
   
 #### OS Kernel Design&Impl 
-实战挑战：构造支持linux syscalls的OS kernel on RV64/LA64/AARCH64/X64，类似全国大学生操作系统比赛内核赛道实战 
+实战挑战：构造支持linux syscalls的OS kernel on RV64/LA64/AARCH64/X64，类似全国大学生操作系统比赛内核赛道实战
+学习建议
+1. 先完成[Rust base Simple OS Kernel]和[Foundation of Component OS Kernel Design & Implementation]的学习
+2. 所有的开发、合作、交流基于下面列出的建立在github上的 classroom，CI, issues, PR, discussions
+    
+参考资源
 - [opencamp课程-项目一：基于ArceOS组件的宏内核- Starry-Next](https://opencamp.cn/os2edu/camp/2025spring/stage/5)
 - [Hard ：Design OS Kernel to run linux apps](https://github.com/LearningOS/learningos-classroom-oscomp) 2025年开源操作系统训练营 oskernel训练仓库模板
 - [Starry-Next实验指导书](https://azure-stars.github.io/Starry-Tutorial-Book/) 欢迎提交PR，一起来写

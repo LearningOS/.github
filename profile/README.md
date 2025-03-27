@@ -43,7 +43,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 实战挑战：构造支持linux syscalls的OS kernel on RV64/LA64/AARCH64/X64，类似全国大学生操作系统比赛内核赛道实战
 ##### 学习建议
 1. 先完成[Rust base Simple OS Kernel](#rust-base-simple-os-kernel)和[Foundation of Component OS Kernel Design & Implementation](#foundation-of-component-os-kernel-design--implementation)的学习
-2. 小步快跑，学习[指导书](https://azure-stars.github.io/Starry-Tutorial-Book/)，观察[主线进展](https://github.com/oscomp/starry-next/)和[挑战者的进步](https://learningos.cn/oscomptest-grading)，有问题就发[issues](https://github.com/oscomp/starry-next/issues),有想法就发[discussion](https://github.com/oscomp/starry-next/discussions)，鼓励贡献并[提交PR](https://github.com/oscomp/starry-next/pulls)
+2. 小步快跑，学习[指导书](https://azure-stars.github.io/Starry-Tutorial-Book/)，观察[主线进展](https://github.com/oscomp/starry-next/)和[挑战者的进步](https://learningos.cn/oscomptest-grading)，查找[资源](https://github.com/oscomp/os-competition-info/blob/main/ref-info.md),有问题就发[issues](https://github.com/oscomp/starry-next/issues),有想法就发[discussion](https://github.com/oscomp/starry-next/discussions)，鼓励贡献并[提交PR](https://github.com/oscomp/starry-next/pulls)
 3. 所有的开发、合作、交流基于下面列出的建立在github上的 classroom，CI, issues, PR, discussions
     
 ##### 参考资源
@@ -57,7 +57,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [给Starry-Next宏内核提问题](https://github.com/oscomp/starry-next/issues) 关于Starry-Next的bug信息等
 - [给Starry-Next宏内核贡献PR](https://github.com/oscomp/starry-next/pulls) 关于Starry-Next的各种改进/修复bug的提交
 - [Starry-Next宏内核讨论](https://github.com/oscomp/starry-next/discussions) 关于周报告、想法等
-
+- [全国大学生OS比赛内核实现赛道相关的资源信息](https://github.com/oscomp/os-competition-info/blob/main/ref-info.md)
   
 #### Hypervisor Design & Implementation
 - [opencamp课程-项目二：基于ArceOS组件的Hypervisor- AxVisor](https://opencamp.cn/os2edu/camp/2025spring/stage/6)

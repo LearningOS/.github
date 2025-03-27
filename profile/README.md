@@ -45,7 +45,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
   
 #### Hypervisor Design & Implementation
 - [opencamp课程-项目二：基于ArceOS组件的Hypervisor- AxVisor](https://opencamp.cn/os2edu/camp/2025spring/stage/6)
-- [Normal -- Hard  ：Design Hypervisor晓丽小例子](https://github.com/LearningOS/RVM-Tutorial)
+- [Normal -- Hard  ：Design Hypervisor小例子](https://github.com/LearningOS/RVM-Tutorial)
   - [RVM-Tutorial 文档](https://github.com/equation314/RVM-Tutorial/wiki)
 - [some ideas&progress](https://github.com/orgs/rcore-os/discussions/13)
 

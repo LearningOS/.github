@@ -41,11 +41,11 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
   
 #### OS Kernel Design&Impl 
 实战挑战：构造支持linux syscalls的OS kernel on RV64/LA64/AARCH64/X64，类似全国大学生操作系统比赛内核赛道实战
-学习建议
+##### 学习建议
 1. 先完成[Rust base Simple OS Kernel]和[Foundation of Component OS Kernel Design & Implementation]的学习
 2. 所有的开发、合作、交流基于下面列出的建立在github上的 classroom，CI, issues, PR, discussions
     
-参考资源
+##### 参考资源
 - [opencamp课程-项目一：基于ArceOS组件的宏内核- Starry-Next](https://opencamp.cn/os2edu/camp/2025spring/stage/5)
 - [Hard ：Design OS Kernel to run linux apps](https://github.com/LearningOS/learningos-classroom-oscomp) 2025年开源操作系统训练营 oskernel训练仓库模板
 - [Starry-Next实验指导书](https://azure-stars.github.io/Starry-Tutorial-Book/) 欢迎提交PR，一起来写

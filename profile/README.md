@@ -44,8 +44,8 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [Starry-Next实验指导书](https://azure-stars.github.io/Starry-Tutorial-Book/) 欢迎提交PR，一起来写
 - [创建OS kernel Comp练习教室](https://classroom.github.com/a/END-WGn8) 点击后按提示可以建立自己的OS kernel Comp实验专用仓库
 - [OS kernel Comp练习排行榜](https://learningos.cn/oscomptest-grading) 可以查看自己的OS kernel Comp实验的排名情况
-   1. 测试逻辑：每测例1分，同时通过四种架构测试才能得到该分数
-   2. 排名逻辑：按总分排名，总分排名相同则按push时间排名
+   1. 测试逻辑：每测例1分，同时通过四种架构测试才能得到该测例的分数
+   1. 排名逻辑：按总分排名，总分排名相同则按git commit的push时间排名
 - [给Starry-Next宏内核提问题](https://github.com/oscomp/starry-next/issues) 关于Starry-Next的bug信息等
 - [给Starry-Next宏内核贡献PR](https://github.com/oscomp/starry-next/pulls) 关于Starry-Next的各种改进/修复bug的提交
 - [Starry-Next宏内核讨论](https://github.com/oscomp/starry-next/discussions) 关于周报告、想法等

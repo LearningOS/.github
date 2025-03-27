@@ -57,7 +57,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [给Starry-Next宏内核提问题](https://github.com/oscomp/starry-next/issues) 关于Starry-Next的bug信息等
 - [给Starry-Next宏内核贡献PR](https://github.com/oscomp/starry-next/pulls) 关于Starry-Next的各种改进/修复bug的提交
 - [Starry-Next宏内核讨论](https://github.com/oscomp/starry-next/discussions) 关于周报告、想法等
-- [全国大学生OS比赛内核实现赛道相关的资源信息](https://github.com/oscomp/os-competition-info/blob/main/ref-info.md)
+- [全国大学生OS比赛内核实现赛道相关的资源信息](https://github.com/oscomp/os-competition-info/blob/main/ref-info.md) 相关硬件手册，驱动组件，文件系统组件，网络协议栈组件，获奖操作系统，操作系统参考例子等。
   
 #### Hypervisor Design & Implementation
 - [opencamp课程-项目二：基于ArceOS组件的Hypervisor- AxVisor](https://opencamp.cn/os2edu/camp/2025spring/stage/6)

@@ -42,7 +42,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 #### OS Kernel Design&Impl 
 实战挑战：构造支持linux syscalls的OS kernel on RV64/LA64/AARCH64/X64，类似全国大学生操作系统比赛内核赛道实战
 ##### 学习建议
-1. 先完成[Rust base Simple OS Kernel]和[Foundation of Component OS Kernel Design & Implementation]的学习
+1. 先完成[Rust base Simple OS Kernel](#rust-base-simple-os-kernel)和[Foundation of Component OS Kernel Design & Implementation](#foundation-of-component-os-kernel-design-implementation)的学习
 2. 所有的开发、合作、交流基于下面列出的建立在github上的 classroom，CI, issues, PR, discussions
     
 ##### 参考资源

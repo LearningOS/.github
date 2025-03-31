@@ -21,13 +21,13 @@
 - [opencamp课程-基础阶段 - Rust编程](https://opencamp.cn/os2edu/camp/2025spring/stage/1)
 - [Easy ：stage1: Rust-lang & RISC-V arch training](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-scheduling-1.md)
 - [创建rustling练习教室](https://classroom.github.com/a/S8vP0lDr) 点击后按提示可以建立自己的rustling实验专用仓库
-- [rustling练习排行榜](https://opencamp.cn/os2edu/camp/2025spring/stage/1?tab=rank) 可以查看自己的rusting实验的排名情况
+- [**rustling练习排行榜**](https://opencamp.cn/os2edu/camp/2025spring/stage/1?tab=rank) 可以查看自己的rusting实验的排名情况
 #### Rust base Simple OS Kernel
 rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [opencamp课程-专业阶段 - OS设计实现](https://opencamp.cn/os2edu/camp/2025spring/stage/2)
 - [Normal ：stage2: Rust-based OS kernel Training](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-scheduling-2.md)
 - [创建 rCore Tutorial练习教室](https://classroom.github.com/a/pTgmDIG6) 点击后按提示可以建立自己的rCore Tutorial实验专用仓库
-- [rCore Tutorial练习排行榜](https://opencamp.cn/os2edu/camp/2025spring/stage/2?tab=rank) 可以查看自己的rCore Tutorial实验的排名情况
+- [**rCore Tutorial练习排行榜**](https://opencamp.cn/os2edu/camp/2025spring/stage/2?tab=rank) 可以查看自己的rCore Tutorial实验的排名情况
 
 
 #### Foundation of Component OS Kernel Design & Implementation
@@ -45,13 +45,12 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 1. 先完成[Rust base Simple OS Kernel](#rust-base-simple-os-kernel)和[Foundation of Component OS Kernel Design & Implementation](#foundation-of-component-os-kernel-design--implementation)的学习
 2. 小步快跑，学习[指导书](https://azure-stars.github.io/Starry-Tutorial-Book/)，观察[主线进展](https://github.com/oscomp/starry-next/)和[挑战者的进步](https://learningos.cn/oscomptest-grading)，查找[资源](https://github.com/oscomp/os-competition-info/blob/main/ref-info.md),有问题就发[issues](https://github.com/oscomp/starry-next/issues),有想法就发[discussion](https://github.com/oscomp/starry-next/discussions)，鼓励贡献并[提交PR](https://github.com/oscomp/starry-next/pulls)
 3. 所有的开发、合作、交流基于下面列出的建立在github上的 classroom，CI, issues, PR, discussions
-    
 ##### 参考资源
 - [opencamp课程-项目一：基于ArceOS组件的宏内核- Starry-Next](https://opencamp.cn/os2edu/camp/2025spring/stage/5)
 - [Hard ：Design OS Kernel to run linux apps](https://github.com/LearningOS/learningos-classroom-oscomp) 2025年开源操作系统训练营 oskernel训练仓库模板
 - [Starry-Next实验指导书](https://azure-stars.github.io/Starry-Tutorial-Book/) 欢迎提交PR，一起来写
 - [创建OS kernel Comp练习教室](https://classroom.github.com/a/END-WGn8) 点击后按提示可以建立自己的OS kernel Comp实验专用仓库
-- [OS kernel Comp练习排行榜](https://learningos.cn/oscomptest-grading) 可以查看自己的OS kernel Comp实验的排名情况
+- [**OS kernel Comp练习排行榜**](https://learningos.cn/oscomptest-grading) 可以查看自己的OS kernel Comp实验的排名情况
    1. 测试逻辑：每测例1分，同时通过四种架构测试才能得到该测例的分数
    1. 排名逻辑：按总分排名，总分排名相同则按git commit的push时间排名
 - [给Starry-Next宏内核提问题](https://github.com/oscomp/starry-next/issues) 关于Starry-Next的bug信息等

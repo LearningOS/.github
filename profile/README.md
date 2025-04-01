@@ -31,7 +31,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 
 
 #### Foundation of Component OS Kernel Design & Implementation
-打好基础：理解如何基于组件来组合出多种构型的操作系统内核
+目标：打好设计实现组件化OS的基础，理解如何基于组件来组合出多种构型的操作系统内核
 - [opencamp课程-项目基础阶段 - 组件化操作系统](https://opencamp.cn/os2edu/camp/2025spring/stage/3)
   - [2024年秋冬季训练营教学视频回放和slides](https://opencamp.cn/os2edu/camp/2024fall/stage/3?tab=video) 
 - [Normal -- Hard  ：Design OS Components -- OS Kernel Framework -- Apps](https://github.com/rcore-os/arceos)
@@ -40,7 +40,8 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [some ideas&progress](https://github.com/orgs/rcore-os/discussions/categories/ideas)
   
 #### OS Kernel Design&Impl 
-实战挑战：构造支持linux syscalls的OS kernel on RV64/LA64/AARCH64/X64，类似全国大学生操作系统比赛内核赛道实战
+目标：用组件化开发方法，基于单体内核组件扩展出宏内核组件，设计并实现直接支持Linux应用的轻量组件化宏内核
+实战挑战：类似全国大学生操作系统比赛内核赛道实战，构造支持linux syscalls的OS kernel on RV64/LA64/AARCH64/X64，
 ##### 学习建议
 1. 先完成[Rust base Simple OS Kernel](#rust-base-simple-os-kernel)和[Foundation of Component OS Kernel Design & Implementation](#foundation-of-component-os-kernel-design--implementation)的学习
 2. 小步快跑，学习[指导书](https://azure-stars.github.io/Starry-Tutorial-Book/)，观察[主线进展](https://github.com/oscomp/starry-next/)和[挑战者的进步](https://learningos.cn/oscomptest-grading)，查找[资源](https://github.com/oscomp/os-competition-info/blob/main/ref-info.md),有问题就发[issues](https://github.com/oscomp/starry-next/issues),有想法就发[discussion](https://github.com/oscomp/starry-next/discussions)，鼓励贡献并[提交PR](https://github.com/oscomp/starry-next/pulls)
@@ -59,6 +60,8 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [全国大学生OS比赛内核实现赛道相关的资源信息](https://github.com/oscomp/os-competition-info/blob/main/ref-info.md) 相关硬件手册，驱动组件，文件系统组件，网络协议栈组件，获奖操作系统，操作系统参考例子等。
   
 #### Hypervisor Design & Implementation
+目标：用组件化开发方法，基于单体内核组件扩展出系统虚拟化组件，设计并实现直接支持运行Linux和其他OS内核的轻量组件化Hypervisor
+实战挑战：基于RV64/LA64/AARCH64/X64的硬件辅助虚拟化，设计组件化的Hypervisor
 - [opencamp课程-项目二：基于ArceOS组件的Hypervisor- AxVisor](https://opencamp.cn/os2edu/camp/2025spring/stage/6)
 - [Normal -- Hard  ：Design Hypervisor小例子](https://github.com/LearningOS/RVM-Tutorial)
   - [RVM-Tutorial 文档](https://github.com/equation314/RVM-Tutorial/wiki)

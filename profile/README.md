@@ -2,6 +2,7 @@
 
 ## [2025春夏季开源操作系统训练营：2025.3.30~2025.6.22](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-summary.md)
 
+- 2025.3.30：[2025年春夏季开源操作系统训练营启动仪式回放](https://meeting.tencent.com/crm/NbwaVE759c)
 - 2025.3.19: 2025年春夏季开源操作系统训练营发布[**重要信息**](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-summary.md)，请仔细阅读。
 - 2025.3.15: 2025年春夏季开源操作系统训练营准备中。
 

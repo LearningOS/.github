@@ -17,7 +17,7 @@
 - [Easy --> Normal  --> Hard ： Rust Programming & RISC-V arch & OS courses & Advanced OS courses & other learning resources](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/relatedinfo.md)
  
 ### Self Training
-入门 --> 进阶 --> 提升 --> 实战
+**入门 --> 进阶 --> 提升 --> 实战**
 
 #### 入门：Rust Language
 - [opencamp课程-基础阶段 - Rust编程](https://opencamp.cn/os2edu/camp/2025spring/stage/1)

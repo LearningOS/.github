@@ -21,11 +21,14 @@
 **入门 --> 进阶 --> 提升 --> 实战**
 
 #### 入门：Rust Language
+目标：了解并掌握基于Rust语言的编程
 - [opencamp课程-基础阶段 - Rust编程](https://opencamp.cn/os2edu/camp/2025spring/stage/1)
 - [Easy ：stage1: Rust-lang & RISC-V arch training](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-scheduling-1.md)
 - [创建rustling练习教室](https://classroom.github.com/a/S8vP0lDr) 点击后按提示可以建立自己的rustling实验专用仓库
 - [**rustling练习排行榜**](https://opencamp.cn/os2edu/camp/2025spring/stage/1?tab=rank) 可以查看自己的rusting实验的排名情况
 #### 进阶：Rust base Simple OS Kernel
+目标：了解并掌握如何设计实现一个简单的操作系统内核
+
 rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [opencamp课程-专业阶段 - OS设计实现](https://opencamp.cn/os2edu/camp/2025spring/stage/2)
 - [Normal ：stage2: Rust-based OS kernel Training](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-scheduling-2.md)

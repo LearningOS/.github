@@ -65,8 +65,17 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [some ideas&progress](https://github.com/orgs/rcore-os/discussions/13)
 
 #### OS kernel/driver based on the asynchronous mechanism of coroutines
+目标：基于 Rust 语言的异步机制 future 对设备驱动和调度器等内核模块进行异步改造核心问题
 - [opencamp课程-项目三：基于协程异步机制的操作系统/驱动](https://opencamp.cn/os2edu/camp/2025spring/stage/7)
-
+- 基础阶段：学习相关博客
+  - [200行实现绿色线程](https://zjp-cn.github.io/os-notes/green-thread.html)
+  - [与协程相关的博客](https://without.boats/tags/async/)
+- 进阶阶段：阅读 tokio 源码，形成文档
+  - 参考资料：[tokio中文](https://tokio-zh.github.io/document/)
+- 最终阶段：达成以下任意目标即可
+  - 使用协程来构建内核调度器，例如将 rCore-tutorial 使用协程实现，或者自己写一个 os
+  - 自己实现一个用户态的协程运行时，要求使用到 io_uring 等机制
+  
 **注1：如果对（Option）训练内容或定制培训内容感兴趣，请联系LearningOS开源社区负责人李明老师（微信id：limingth）。**
 
 **注2：如果想选择可选项目的学生和工程师，请在完成第二阶段的训练后，请与助教和老师联系。这些项目属于有一定创新性的题目，得到了国家实验室、国家创新中心、头部企业和高校研究生导师的直接支持，在就业和学业发展上有新的挑战和机会。**

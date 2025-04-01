@@ -45,7 +45,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
   - [arceos tutorial文档二](https://oslearning365.github.io/arceos-tutorial-book/) 有进一步更新计划，欢迎合作者联系我们
 - [some ideas&progress](https://github.com/orgs/rcore-os/discussions/categories/ideas)
   
-#### 实战1：OS Kernel Design&Impl 
+#### 实战1：OS Kernel Design&Implementation
 目标：用组件化开发方法，基于单体内核组件扩展出宏内核组件，设计并实现直接支持Linux应用的轻量组件化宏内核
 
 实战挑战：类似全国大学生操作系统比赛内核赛道实战，构造支持linux syscalls的OS kernel on RV64/LA64/AARCH64/X64，

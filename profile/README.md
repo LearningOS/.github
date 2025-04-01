@@ -15,7 +15,7 @@
 - [湖南大学本科生肖政杭的自学ucore for x86的过程记录](https://kiprey.github.io/tags/uCore/)
 
 ### Self Learning
-- [Easy --> Normal  --> Hard ： Rust Programming & RISC-V arch & OS courses & Advanced OS courses & other learning resources](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/relatedinfo.md)
+- [Easy --> Normal  --> Hard ： Rust Programming & RISC-V arch & OS courses & Advanced OS courses & other learning resources](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/relatedinfo.md)
  
 ### Self Training
 **入门 --> 进阶 --> 提升 --> 实战**

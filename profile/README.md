@@ -21,32 +21,47 @@
 **入门 --> 进阶 --> 提升 --> 实战**
 
 #### 入门：Rust Language
-目标：了解并掌握基于Rust语言的编程
+（第一阶段）目标：了解并掌握基于Rust语言的编程
+
+学习：相关课程与资源
 - [opencamp课程-基础阶段 - Rust编程](https://opencamp.cn/os2edu/camp/2025spring/stage/1)
 - [Easy ：stage1: Rust-lang & RISC-V arch training](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-scheduling-1.md)
-- [创建rustling练习教室](https://classroom.github.com/a/S8vP0lDr) 点击后按提示可以建立自己的rustling实验专用仓库
+任务：完成练习
+- [创建rustling练习教室](https://classroom.github.com/a/S8vP0lDr) 点击后按提示可以建立自己的rustling实验专用仓库，并完成练习
+成绩：排行榜
 - [**rustling练习排行榜**](https://opencamp.cn/os2edu/camp/2025spring/stage/1?tab=rank) 可以查看自己的rusting实验的排名情况
 #### 进阶：Rust base Simple OS Kernel
-目标：了解并掌握如何设计实现一个简单的操作系统内核
+（第二阶段）目标：了解并掌握如何设计实现一个简单的操作系统内核
 
+学习：相关课程与资源：
 rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [opencamp课程-专业阶段 - OS设计实现](https://opencamp.cn/os2edu/camp/2025spring/stage/2)
 - [Normal ：stage2: Rust-based OS kernel Training](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-scheduling-2.md)
-- [创建 rCore Tutorial练习教室](https://classroom.github.com/a/pTgmDIG6) 点击后按提示可以建立自己的rCore Tutorial实验专用仓库
+任务：完成实验
+- [创建 rCore Tutorial练习教室](https://classroom.github.com/a/pTgmDIG6) 点击后按提示可以建立自己的rCore Tutorial实验专用仓库，并完成实验
+成绩：排行榜
 - [**rCore Tutorial练习排行榜**](https://opencamp.cn/os2edu/camp/2025spring/stage/2?tab=rank) 可以查看自己的rCore Tutorial实验的排名情况
 
 
 #### 提升：Foundation of Component OS Kernel Design & Implementation
-目标：打好设计实现组件化OS的基础，理解如何基于组件来组合出多种构型的操作系统内核
-- [opencamp课程-项目基础阶段 - 组件化操作系统](https://opencamp.cn/os2edu/camp/2025spring/stage/3)
-  - [2024年秋冬季训练营教学视频回放和slides](https://opencamp.cn/os2edu/camp/2024fall/stage/3?tab=video) 
+（第三阶段）目标：打好设计实现组件化OS的基础，理解如何基于组件来组合出多种构型的操作系统内核
+
+学习：相关课程与资源
+- [opencamp课程-项目基础阶段 - 组件化操作系统的视频](https://opencamp.cn/os2edu/camp/2025spring/stage/3?tab=video)
+  - 学习视频，并重现[视频中的tutorial例子](https://github.com/arceos-org/oscamp/tree/main/arceos/tour) 
 - [Normal -- Hard  ：Design OS Components -- OS Kernel Framework -- Apps](https://github.com/rcore-os/arceos)
   - [arceos tutorial文档一](https://oslearning365.github.io/arceos-tutorial-book/) 有进一步更新计划，欢迎合作者联系我们
   - [arceos tutorial文档二](https://oslearning365.github.io/arceos-tutorial-book/) 有进一步更新计划，欢迎合作者联系我们
 - [some ideas&progress](https://github.com/orgs/rcore-os/discussions/categories/ideas)
-  
+任务：完成实验练习
+- 根据[opencamp课程-项目基础阶段 - 组件化操作系统的视频](https://opencamp.cn/os2edu/camp/2025spring/stage/3?tab=video)中每节课最后的练习说明，完成[练习](https://github.com/arceos-org/oscamp/tree/main/arceos/exercises)
+成绩：
+- 每完成一个练习，请在“2025春夏季OS训练营第三阶段群”微信群里告知助教或导师。助教或导师会与你进一步联系和交流。
+- 注：有感兴趣设计实现三阶段排行榜的学员，请在微信直接练习助教或导师，我们需要大家一起共建训练营。
+
+**第四阶段：实战1~3**  
 #### 实战1：OS Kernel Design&Implementation
-目标：用组件化开发方法，基于单体内核组件扩展出宏内核组件，设计并实现直接支持Linux应用的轻量组件化宏内核
+（第四阶段）目标：用组件化开发方法，基于单体内核组件扩展出宏内核组件，设计并实现直接支持Linux应用的轻量组件化宏内核
 
 实战挑战：类似全国大学生操作系统比赛内核赛道实战，构造支持linux syscalls的OS kernel on RV64/LA64/AARCH64/X64，
 ##### 学习建议
@@ -67,7 +82,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [全国大学生OS比赛内核实现赛道相关的资源信息](https://github.com/oscomp/os-competition-info/blob/main/ref-info.md) 相关硬件手册，驱动组件，文件系统组件，网络协议栈组件，获奖操作系统，操作系统参考例子等。
   
 #### 实战2：Hypervisor Design & Implementation
-目标：用组件化开发方法，基于单体内核组件扩展出系统虚拟化组件，设计并实现直接支持运行Linux和其他OS内核的轻量组件化Hypervisor
+（第四阶段）目标：用组件化开发方法，基于单体内核组件扩展出系统虚拟化组件，设计并实现直接支持运行Linux和其他OS内核的轻量组件化Hypervisor
 
 实战挑战：基于RV64/LA64/AARCH64/X64的硬件辅助虚拟化，设计轻量组件化的Hypervisor
 - [opencamp课程-项目二：基于ArceOS组件的Hypervisor- AxVisor](https://opencamp.cn/os2edu/camp/2025spring/stage/6)
@@ -76,7 +91,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [some ideas&progress](https://github.com/orgs/rcore-os/discussions/13)
 
 #### 实战3：OS kernel/driver based on the asynchronous mechanism of coroutines
-目标：基于 Rust 语言的异步机制 future 对设备驱动和调度器等内核模块进行异步改造核心问题
+（第四阶段）目标：基于 Rust 语言的异步机制 future 对设备驱动和调度器等内核模块进行异步改造核心问题
 - [opencamp课程-项目三：基于协程异步机制的操作系统/驱动](https://opencamp.cn/os2edu/camp/2025spring/stage/7)
 - 基础阶段：学习相关博客
   - [200行实现绿色线程](https://zjp-cn.github.io/os-notes/green-thread.html)

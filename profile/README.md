@@ -50,14 +50,16 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [opencamp课程-项目基础阶段 - 组件化操作系统的视频](https://opencamp.cn/os2edu/camp/2025spring/stage/3?tab=video)
   - 学习视频，并重现[视频中的tutorial例子](https://github.com/arceos-org/oscamp/tree/main/arceos/tour) 
 - [Normal -- Hard  ：Design OS Components -- OS Kernel Framework -- Apps](https://github.com/rcore-os/arceos)
-  - [arceos tutorial文档一](https://oslearning365.github.io/arceos-tutorial-book/) 有进一步更新计划，欢迎合作者联系我们
-  - [arceos tutorial文档二](https://oslearning365.github.io/arceos-tutorial-book/) 有进一步更新计划，欢迎合作者联系我们
+  - [arceos tutorial文档一](https://oslearning365.github.io/arceos-tutorial-book/)
+  - [arceos tutorial文档二](https://oslearning365.github.io/arceos-tutorial-book/)
+  - 注:这两个文档有进一步更新计划，欢迎想一起写文档的学员直接微信联系助教或导师欢迎合作者联系我们，我们一起共建训练营。
 - [some ideas&progress](https://github.com/orgs/rcore-os/discussions/categories/ideas)
 任务：完成实验练习
-- 根据[opencamp课程-项目基础阶段 - 组件化操作系统的视频](https://opencamp.cn/os2edu/camp/2025spring/stage/3?tab=video)中每节课最后的练习说明，完成[练习](https://github.com/arceos-org/oscamp/tree/main/arceos/exercises)
+- 根据[opencamp课程-项目基础阶段 - 组件化操作系统的视频](https://opencamp.cn/os2edu/camp/2025spring/stage/3?tab=video)中每节课最后的练习说明，完成[课程练习](https://github.com/arceos-org/oscamp/tree/main/arceos/exercises)
+
 成绩：
 - 每完成一个练习，请在“2025春夏季OS训练营第三阶段群”微信群里告知助教或导师。助教或导师会与你进一步联系和交流。
-- 注：有感兴趣设计实现三阶段排行榜的学员，请在微信直接练习助教或导师，我们需要大家一起共建训练营。
+- 注：有感兴趣设计实现三阶段排行榜的学员，请在直接微信联系助教或导师，我们一起共建训练营。
 
 **第四阶段：实战1~3**  
 #### 实战1：OS Kernel Design&Implementation

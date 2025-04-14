@@ -46,7 +46,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 #### 提升：Foundation of Component OS Kernel Design & Implementation
 **（第三阶段）目标：打好设计实现组件化OS的基础，理解如何基于组件来组合出多种构型的操作系统内核**
 
-学习：相关课程与资源
+##### 学习：相关课程与资源
 - [opencamp课程-项目基础阶段 - 组件化操作系统的视频](https://opencamp.cn/os2edu/camp/2025spring/stage/3?tab=video)
   - 学习视频，并重现[视频中的tutorial例子](https://github.com/arceos-org/oscamp/tree/main/arceos/tour) 
 - [Normal -- Hard  ：Design OS Components -- OS Kernel Framework -- Apps](https://github.com/rcore-os/arceos)
@@ -54,15 +54,16 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
   - [arceos tutorial文档二](https://oslearning365.github.io/arceos-tutorial-book/)
   - 注:这两个文档有进一步更新计划，欢迎想一起写文档的学员直接微信联系助教或导师欢迎合作者联系我们，我们一起共建训练营。
 
-任务：完成实验练习
-- 根据[opencamp课程-项目基础阶段 - 组件化操作系统的视频](https://opencamp.cn/os2edu/camp/2025spring/stage/3?tab=video)中每节课最后的练习说明，完成[课程练习](https://classroom.github.com/a/BaLc7UDP)。
+- 
+##### 任务：完成实验练习
+- 根据[opencamp课程-项目基础阶段 - 组件化操作系统的视频](https://opencamp.cn/os2edu/camp/2025spring/stage/3?tab=video)中每节课最后的练习说明，完成[课程练习](https://github.com/arceos-org/oscamp/tree/main/arceos/exercises)。
+- [**创建"实现组件化OS/Hypervisor"练习教室**](https://classroom.github.com/a/END-WGn8) 点击后按提示可以建立自己的["实现组件化OS/Hypervisor"](https://github.com/arceos-org/oscamp/)实验专用仓库
+##### 成绩：排行榜
+- [**"实现组件化OS/Hypervisor"练习题排行榜**](https://opencamp.cn/os2edu/camp/2025spring/stage/3?tab=rank)这个是课后练习的排行榜，一共6题，共600分，可以查看自己的的排名情况。
+- [**"实现组件化OS/Hypervisor"挑战题排行榜**](https://opencamp.cn/os2edu/camp/2025spring/stage/5?tab=rank)这个是挑战题目的排行榜，满分设置的是373分，可以查看自己的的排名情况。 
+- 注：感谢徐堃元、殷金钰和周屿涵建立的三阶段排行榜！
+- 注：有感兴趣改进各阶段的排行榜的学员，请在直接微信联系助教或导师，我们一起共建训练营。
 
-成绩：
-- 每完成一个练习，请在“2025春夏季OS训练营第三阶段群”微信群里告知助教或导师。助教或导师会与你进一步联系和交流。
-- 三阶段所有实验，目的都是帮助大家学习和巩固，同学们自行决定是否去做，不是晋级条件。
-- 实验分为基础实验与挑战题目，基础实验成绩可在[项目基础阶段-组件化操作系统排行榜](https://opencamp.cn/os2edu/camp/2025spring/stage/3?tab=rank)查看，挑战题目成绩可在[项目基础阶段-挑战题目排行榜](https://opencamp.cn/os2edu/camp/2025spring/stage/5?tab=rank)查看。
-- 注: 第四阶段各个选题方向的导师可能会根据第三阶段的完成情况为大家分配项目任务，请有意选择第四阶段相关选题的同学着重完成第三阶段的相关内容，希望大家通过第三阶段的学习可以为第四阶段的项目实操打下一个好的基础。
-- 注：有感兴趣设计优化训练营实验测评与排行榜的学员，请在直接微信联系助教或导师，我们一起共建训练营。
 
 **第四阶段：实战1~3**  
 #### 实战1：OS Kernel Design&Implementation
@@ -77,10 +78,15 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [opencamp课程-项目一：基于ArceOS组件的宏内核- Starry-Next](https://opencamp.cn/os2edu/camp/2025spring/stage/5)
 - [Hard ：Design OS Kernel to run linux apps](https://github.com/LearningOS/learningos-classroom-oscomp) 2025年开源操作系统训练营 oskernel训练仓库模板
 - [Starry-Next实验指导书](https://azure-stars.github.io/Starry-Tutorial-Book/) 欢迎提交PR，一起来写
+
+##### 任务：完成实验练习
 - [创建OS kernel Comp练习教室](https://classroom.github.com/a/END-WGn8) 点击后按提示可以建立自己的OS kernel Comp实验专用仓库
+##### 成绩：排行榜
 - [**OS kernel Comp练习排行榜**](https://learningos.cn/oscomptest-grading) 可以查看自己的OS kernel Comp实验的排名情况
    1. 测试逻辑：每测例1分，同时通过四种架构测试才能得到该测例的分数
    1. 排名逻辑：按总分排名，总分排名相同则按git commit的push时间排名
+
+##### 交流与贡献
 - [给Starry-Next宏内核提问题](https://github.com/oscomp/starry-next/issues) 关于Starry-Next的bug信息等
 - [给Starry-Next宏内核贡献PR](https://github.com/oscomp/starry-next/pulls) 关于Starry-Next的各种改进/修复bug的提交
 - [Starry-Next宏内核讨论](https://github.com/oscomp/starry-next/discussions) 关于周报告、想法等

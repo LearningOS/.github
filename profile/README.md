@@ -53,6 +53,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
   - [arceos tutorial文档一](https://oslearning365.github.io/arceos-tutorial-book/)
   - [arceos tutorial文档二](https://oslearning365.github.io/arceos-tutorial-book/)
   - 注:这两个文档有进一步更新计划，欢迎想一起写文档的学员直接微信联系助教或导师欢迎合作者联系我们，我们一起共建训练营。
+
 - 
 ##### 任务：完成实验练习
 - 根据[opencamp课程-项目基础阶段 - 组件化操作系统的视频](https://opencamp.cn/os2edu/camp/2025spring/stage/3?tab=video)中每节课最后的练习说明，完成[课程练习](https://github.com/arceos-org/oscamp/tree/main/arceos/exercises)。
@@ -62,6 +63,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [**"实现组件化OS/Hypervisor"挑战题排行榜**](https://opencamp.cn/os2edu/camp/2025spring/stage/5?tab=rank)这个是挑战题目的排行榜，满分设置的是373分，可以查看自己的的排名情况。 
 - 注：感谢徐堃元、殷金钰和周屿涵建立的三阶段排行榜！
 - 注：有感兴趣改进各阶段的排行榜的学员，请在直接微信联系助教或导师，我们一起共建训练营。
+
 
 **第四阶段：实战1~3**  
 #### 实战1：OS Kernel Design&Implementation

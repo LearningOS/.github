@@ -24,13 +24,14 @@
 #### 入门：Rust Language
 **（第一阶段）目标：了解并掌握基于Rust语言的编程**
 
-学习：相关课程与资源
+##### 学习：相关课程与资源
 - [opencamp课程-基础阶段 - Rust编程](https://opencamp.cn/os2edu/camp/2025spring/stage/1)
 - [Easy ：stage1: Rust-lang & RISC-V arch training](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-scheduling-1.md)
-任务：完成练习
+##### 任务：完成练习
 - [创建rustling练习教室](https://classroom.github.com/a/S8vP0lDr) 点击后按提示可以建立自己的rustling实验专用仓库，并完成练习
-成绩：排行榜
+##### 成绩：排行榜
 - [**rustling练习排行榜**](https://opencamp.cn/os2edu/camp/2025spring/stage/1?tab=rank) 可以查看自己的rusting实验的排名情况
+
 #### 进阶：Rust base Simple OS Kernel
 **（第二阶段）目标：了解并掌握如何设计实现一个简单的操作系统内核**
 

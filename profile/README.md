@@ -55,11 +55,14 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
   - 注:这两个文档有进一步更新计划，欢迎想一起写文档的学员直接微信联系助教或导师欢迎合作者联系我们，我们一起共建训练营。
 
 任务：完成实验练习
-- 根据[opencamp课程-项目基础阶段 - 组件化操作系统的视频](https://opencamp.cn/os2edu/camp/2025spring/stage/3?tab=video)中每节课最后的练习说明，完成[课程练习](https://github.com/arceos-org/oscamp/tree/main/arceos/exercises)。
+- 根据[opencamp课程-项目基础阶段 - 组件化操作系统的视频](https://opencamp.cn/os2edu/camp/2025spring/stage/3?tab=video)中每节课最后的练习说明，完成[课程练习](https://classroom.github.com/a/BaLc7UDP)。
 
 成绩：
 - 每完成一个练习，请在“2025春夏季OS训练营第三阶段群”微信群里告知助教或导师。助教或导师会与你进一步联系和交流。
-- 注：有感兴趣设计实现三阶段排行榜的学员，请在直接微信联系助教或导师，我们一起共建训练营。
+- 三阶段所有实验，目的都是帮助大家学习和巩固，同学们自行决定是否去做，不是晋级条件。
+- 实验分为基础实验与挑战题目，基础实验成绩可在[项目基础阶段-组件化操作系统排行榜](https://opencamp.cn/os2edu/camp/2025spring/stage/3?tab=rank)查看，挑战题目成绩可在[项目基础阶段-挑战题目排行榜](https://opencamp.cn/os2edu/camp/2025spring/stage/5?tab=rank)查看。
+- 注: 第四阶段各个选题方向的导师可能会根据第三阶段的完成情况为大家分配项目任务，请有意选择第四阶段相关选题的同学着重完成第三阶段的相关内容，希望大家通过第三阶段的学习可以为第四阶段的项目实操打下一个好的基础。
+- 注：有感兴趣设计优化训练营实验测评与排行榜的学员，请在直接微信联系助教或导师，我们一起共建训练营。
 
 **第四阶段：实战1~3**  
 #### 实战1：OS Kernel Design&Implementation

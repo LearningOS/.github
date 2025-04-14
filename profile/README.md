@@ -33,11 +33,11 @@
 #### 进阶：Rust base Simple OS Kernel
 **（第二阶段）目标：了解并掌握如何设计实现一个简单的操作系统内核**
 
-学习：相关课程与资源：
+##### 学习：相关课程与资源：
 rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [opencamp课程-专业阶段 - OS设计实现](https://opencamp.cn/os2edu/camp/2025spring/stage/2)
 - [Normal ：stage2: Rust-based OS kernel Training](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-scheduling-2.md)
-任务：完成实验
+##### 任务：完成实验
 - [创建 rCore Tutorial练习教室](https://classroom.github.com/a/pTgmDIG6) 点击后按提示可以建立自己的rCore Tutorial实验专用仓库，并完成实验
 成绩：排行榜
 - [**rCore Tutorial练习排行榜**](https://opencamp.cn/os2edu/camp/2025spring/stage/2?tab=rank) 可以查看自己的rCore Tutorial实验的排名情况
@@ -54,7 +54,6 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
   - [arceos tutorial文档二](https://oslearning365.github.io/arceos-tutorial-book/)
   - 注:这两个文档有进一步更新计划，欢迎想一起写文档的学员直接微信联系助教或导师欢迎合作者联系我们，我们一起共建训练营。
 
-- 
 ##### 任务：完成实验练习
 - 根据[opencamp课程-项目基础阶段 - 组件化操作系统的视频](https://opencamp.cn/os2edu/camp/2025spring/stage/3?tab=video)中每节课最后的练习说明，完成[课程练习](https://github.com/arceos-org/oscamp/tree/main/arceos/exercises)。
 - [**创建"实现组件化OS/Hypervisor"练习教室**](https://classroom.github.com/a/END-WGn8) 点击后按提示可以建立自己的["实现组件化OS/Hypervisor"](https://github.com/arceos-org/oscamp/)实验专用仓库
@@ -85,6 +84,8 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [**OS kernel Comp练习排行榜**](https://learningos.cn/oscomptest-grading) 可以查看自己的OS kernel Comp实验的排名情况
    1. 测试逻辑：每测例1分，同时通过四种架构测试才能得到该测例的分数
    1. 排名逻辑：按总分排名，总分排名相同则按git commit的push时间排名
+- 注：感谢黄熙涵建立的宏内核排行榜！
+- 注：有感兴趣改进各阶段的排行榜的学员，请在直接微信联系助教或导师，我们一起共建训练营。
 
 ##### 交流与贡献
 - [给Starry-Next宏内核提问题](https://github.com/oscomp/starry-next/issues) 关于Starry-Next的bug信息等
@@ -101,6 +102,8 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
   - [RVM-Tutorial 文档](https://github.com/equation314/RVM-Tutorial/wiki)
 - [some ideas&progress](https://github.com/orgs/rcore-os/discussions/13)
 
+- 注：有感兴趣改进各阶段的排行榜的学员，请在直接微信联系助教或导师，我们一起共建训练营。
+
 #### 实战3：OS kernel/driver based on the asynchronous mechanism of coroutines
 **（第四阶段）目标：基于 Rust 语言的异步机制 future 对设备驱动和调度器等内核模块进行异步改造核心问题**
 - [opencamp课程-项目三：基于协程异步机制的操作系统/驱动](https://opencamp.cn/os2edu/camp/2025spring/stage/7)
@@ -112,6 +115,8 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - 最终阶段：达成以下任意目标即可
   - 使用协程来构建内核调度器，例如将 rCore-tutorial 使用协程实现，或者自己写一个 os
   - 自己实现一个用户态的协程运行时，要求使用到 io_uring 等机制
+
+- 注：有感兴趣改进各阶段的排行榜的学员，请在直接微信联系助教或导师，我们一起共建训练营。
   
 **注1：如果对（Option）训练内容或定制培训内容感兴趣，请联系LearningOS开源社区负责人李明老师（微信id：limingth）。**
 

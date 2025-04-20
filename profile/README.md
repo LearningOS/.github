@@ -84,7 +84,9 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 **设计实现支持Linux App的宏内核**
 1. [创建OS kernel Comp练习教室](https://classroom.github.com/a/END-WGn8) 点击后按提示可以建立自己的OS kernel Comp实验专用仓库
 1. 把[Starry-next](https://github.com/oscomp/starry-next)作为基线宏内核参考，并阅读[starry-next编程指导书(撰写中)](https://azure-stars.github.io/Starry-Tutorial-Book/)
-1. 进一步学习[支持Linux App宏内核的编程排行榜](https://learningos.cn/oscomptest-grading)中有成绩的repo项目，看看他们是如何逐步实现对Linux Syscalls的支持，并进一步通过测试用例的。
+1. 进一步分析[支持Linux App宏内核的编程排行榜](https://learningos.cn/oscomptest-grading)中有成绩的repo项目，学习他们是如何逐步实现对Linux Syscalls的支持，并进一步通过测试用例的。
+1. 对自己的OS kernel Comp实验专用仓库进行编程，逐步实现对各种Linux Syscall的支持。有问题就发[issues](https://github.com/oscomp/starry-next/issues)，并可在四阶段项目一群中交流。
+1. 登顶[支持Linux App宏内核的编程排行榜](https://learningos.cn/oscomptest-grading)
    
 ##### 成绩：排行榜
 - [**OS kernel Comp练习排行榜**](https://learningos.cn/oscomptest-grading) 可以查看自己的OS kernel Comp实验的排名情况

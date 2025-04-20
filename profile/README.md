@@ -84,7 +84,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 **设计实现支持Linux App的宏内核**
 1. [创建OS kernel Comp练习教室](https://classroom.github.com/a/END-WGn8) 点击后按提示可以建立自己的OS kernel Comp实验专用仓库
 1. 把[Starry-next](https://github.com/oscomp/starry-next)作为基线宏内核参考，并阅读[starry-next编程指导书(撰写中)](https://azure-stars.github.io/Starry-Tutorial-Book/)
-1. 进一步分析[支持Linux App宏内核的编程排行榜](https://learningos.cn/oscomptest-grading)中有成绩的repo项目，学习他们是如何逐步实现对Linux Syscalls的支持，并进一步通过测试用例的。
+1. 进一步分析[支持Linux App宏内核的编程排行榜](https://learningos.cn/oscomptest-grading)中有成绩的repo项目，学习他们是如何逐步实现对Linux Syscalls的支持，并进一步通过测试用例的。注:上榜的宏内核不仅仅是Starry Next，还有ByteOS等
 1. 对自己的OS kernel Comp实验专用仓库进行编程，逐步实现对各种Linux Syscall的支持。有问题就发[issues](https://github.com/oscomp/starry-next/issues)，并可在四阶段项目一群中交流。在自己的的OS kernel Comp实验专用仓库中撰写周报告，总结自己如何逐步提升的。
 1. 争取登顶[支持Linux App宏内核的编程排行榜](https://learningos.cn/oscomptest-grading)
    
@@ -92,6 +92,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [**OS kernel Comp练习排行榜**](https://learningos.cn/oscomptest-grading) 可以查看自己的OS kernel Comp实验的排名情况
    1. 测试逻辑：每测例1分，同时通过四种架构测试才能得到该测例的分数
    1. 排名逻辑：按总分排名，总分排名相同则按git commit的push时间排名
+   1. Linux测试用例来自[全国大学生OS比赛内核赛道的测例](https://github.com/oscomp/testsuits-for-oskernel/tree/2025_multiarch)
 - 注：感谢黄熙涵建立的宏内核排行榜！
 - 注：有感兴趣改进各阶段的排行榜的学员，请在直接微信联系助教或导师，我们一起共建训练营。
 

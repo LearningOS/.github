@@ -58,7 +58,8 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 
 ##### 任务：完成实验练习
 - 根据[opencamp课程-项目基础阶段 - 组件化操作系统的视频](https://opencamp.cn/os2edu/camp/2025spring/stage/3?tab=video)中每节课最后的练习说明，完成[课程练习](https://github.com/arceos-org/oscamp/tree/main/arceos/exercises)。
-- [**创建"实现组件化OS/Hypervisor"练习教室**](https://classroom.github.com/a/END-WGn8) 点击后按提示可以建立自己的["实现组件化OS/Hypervisor"](https://github.com/arceos-org/oscamp/)实验专用仓库
+- [**创建"实现组件化 unikernel/monolithickernel/Hypervisor"练习教室**](https://classroom.github.com/a/BaLc7UDP) 点击后按提示可以建立自己的["实现组件化OS/Hypervisor"](https://github.com/arceos-org/oscamp/)实验专用仓库
+  - ["实现组件化unikernel/monolithickernel//Hypervisor"练习教室模板](https://github.com/LearningOS/arceos-classroom-2025s-arceos-2025s-oscamp-stage3) 
 ##### 成绩：排行榜
 - [**"实现组件化OS/Hypervisor"练习题排行榜**](https://opencamp.cn/os2edu/camp/2025spring/stage/3?tab=rank)这个是课后练习的排行榜，一共6题，共600分，可以查看自己的的排名情况。
 - [**"实现组件化OS/Hypervisor"挑战题排行榜**](https://opencamp.cn/os2edu/camp/2025spring/stage/5?tab=rank)这个是挑战题目的排行榜，满分设置的是373分，可以查看自己的的排名情况。 

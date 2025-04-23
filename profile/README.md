@@ -138,9 +138,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [embassy os kernel](https://github.com/embassy-rs/embassy)：Embassy is the next-generation framework for embedded applications.
 - [ariel-os](https://github.com/ariel-os/ariel-os/tree/main):Ariel OS is an operating system for secure, memory-safe, low-power Internet of Things (IoT). It is based on Rust from the ground up and supports hardware based on 32-bit microcontroller architectures (Cortex-M, RISC-V, and Xtensa).
 - [基于异步协程的内核组件与宏内核架构操作系统](https://gitlab.eduxiji.net/PLNTRY/OSKernel2023-umi)
-- [非异步协程的内核组件与宏内核架构操作系统: Starry](https://gitlab.eduxiji.net/202310003101649/starry)
-- [非异步协程的内核组件与宏内核架构操作系统: byteos](https://gitlab.eduxiji.net/202310464101015/oskernel2023-byteos) 
-- [非异步协程的内核组件与宏内核架构操作系统: Titanix](https://gitlab.eduxiji.net/202318123101314/oskernel2023-Titanix)
+
  
 ##### 任务：完成实验练习
 **设计实现异步协程相关机制和内核相关组件**

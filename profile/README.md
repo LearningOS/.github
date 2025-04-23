@@ -27,7 +27,7 @@
 ##### 学习：相关课程与资源
 - [opencamp课程-基础阶段 - Rust编程](https://opencamp.cn/os2edu/camp/2025spring/stage/1)
 - [Easy ：stage1: Rust-lang & RISC-V arch training](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-scheduling-1.md)
-##### 任务：完成练习
+##### 任务：完成实验练习
 - [创建rustling练习教室](https://classroom.github.com/a/S8vP0lDr) 点击后按提示可以建立自己的rustling实验专用仓库，并完成练习
 ##### 成绩：排行榜
 - [**rustling练习排行榜**](https://opencamp.cn/os2edu/camp/2025spring/stage/1?tab=rank) 可以查看自己的rusting实验的排名情况
@@ -39,7 +39,7 @@
 rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [opencamp课程-专业阶段 - OS设计实现](https://opencamp.cn/os2edu/camp/2025spring/stage/2)
 - [Normal ：stage2: Rust-based OS kernel Training](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-scheduling-2.md)
-##### 任务：完成实验
+##### 任务：完成实验练习
 - [创建 rCore Tutorial练习教室](https://classroom.github.com/a/pTgmDIG6) 点击后按提示可以建立自己的rCore Tutorial实验专用仓库，并完成实验
 ##### 成绩：排行榜
 - [**rCore Tutorial练习排行榜**](https://opencamp.cn/os2edu/camp/2025spring/stage/2?tab=rank) 可以查看自己的rCore Tutorial实验的排名情况

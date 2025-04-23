@@ -128,12 +128,20 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - 基础阶段：学习相关博客
   - [200行实现绿色线程](https://zjp-cn.github.io/os-notes/green-thread.html)
   - [与协程相关的博客](https://without.boats/tags/async/)
-- 进阶阶段：阅读 tokio 源码，形成文档
+- 进阶阶段：阅读 tokio 源码和文档并进行实践
   - 参考资料：[tokio中文](https://tokio-zh.github.io/document/)
+
 - [嵌入式异步框架embassy中文文档](https://lighklife.github.io/embassy-cn/) 
 - [2024春夏季OS训练营实习：embassy preempt开发总结文档](https://kmsorsms.github.io/embassy_preempt/)
 - [2024秋冬季OS训练营实习总结：异步协程相关1](https://systemxlabs.github.io/blog/green-threads-in-200-lines-of-rust/)
 - [2024秋冬季OS训练营实习总结：异步协程相关2](https://github.com/wahoooooooo/os_blog)
+- [embassy os kernel](https://github.com/embassy-rs/embassy)：Embassy is the next-generation framework for embedded applications.
+- [ariel-os](https://github.com/ariel-os/ariel-os/tree/main):Ariel OS is an operating system for secure, memory-safe, low-power Internet of Things (IoT). It is based on Rust from the ground up and supports hardware based on 32-bit microcontroller architectures (Cortex-M, RISC-V, and Xtensa).
+- [基于异步协程的内核组件与宏内核架构操作系统](https://gitlab.eduxiji.net/PLNTRY/OSKernel2023-umi)
+- [非异步协程的内核组件与宏内核架构操作系统: Starry](https://gitlab.eduxiji.net/202310003101649/starry)
+- [非异步协程的内核组件与宏内核架构操作系统: byteos](https://gitlab.eduxiji.net/202310464101015/oskernel2023-byteos) 
+- [非异步协程的内核组件与宏内核架构操作系统: Titanix](https://gitlab.eduxiji.net/202318123101314/oskernel2023-Titanix)
+ 
 ##### 任务：完成实验练习
 **设计实现异步协程相关机制和内核相关组件**
 - [四阶段实战三具体小任务列表](https://github.com/orgs/rcore-os/discussions/36)

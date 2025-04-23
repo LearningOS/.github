@@ -111,9 +111,12 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 实战挑战：基于RV64/LA64/AARCH64/X64的硬件辅助虚拟化，设计轻量组件化的Hypervisor
 
 ##### 参考资源
-- [opencamp课程-项目二：基于ArceOS组件的Hypervisor- AxVisor](https://opencamp.cn/os2edu/camp/2025spring/stage/6)
+- [opencamp课程-项目二：基于ArceOS组件的Hypervisor- AxVisor设计与实现](https://opencamp.cn/os2edu/camp/2025spring/stage/6)
 - [Normal -- Hard  ：Design Hypervisor小例子](https://github.com/LearningOS/RVM-Tutorial)
   - [RVM-Tutorial 文档](https://github.com/equation314/RVM-Tutorial/wiki)
+- [组件化axvisor hypervisor](https://github.com/arceos-hypervisor/axvisor)
+- [hvisor](https://github.com/syswonder/hvisor)
+- [rust-shyper](https://gitee.com/openeuler/rust_shyper)
 
 ##### 任务：完成实验练习
 **设计实现组件化Hypervisor**

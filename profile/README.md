@@ -130,7 +130,10 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
   - [与协程相关的博客](https://without.boats/tags/async/)
 - 进阶阶段：阅读 tokio 源码，形成文档
   - 参考资料：[tokio中文](https://tokio-zh.github.io/document/)
-
+- [嵌入式异步框架embassy中文文档](https://lighklife.github.io/embassy-cn/) 
+- [2024春夏季OS训练营实习：embassy preempt开发总结文档]((https://kmsorsms.github.io/embassy_preempt/)
+- [2024秋冬季OS训练营实习总结：异步协程相关1](https://systemxlabs.github.io/blog/green-threads-in-200-lines-of-rust/)
+- [2024秋冬季OS训练营实习总结：异步协程相关2](https://github.com/wahoooooooo/os_blog)
 ##### 任务：完成实验练习
 **设计实现异步协程相关机制和内核相关组件**
 - [四阶段实战三具体小任务列表](https://github.com/orgs/rcore-os/discussions/36)

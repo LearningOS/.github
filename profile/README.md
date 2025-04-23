@@ -135,8 +135,9 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [2024春夏季OS训练营实习：embassy preempt开发总结文档](https://kmsorsms.github.io/embassy_preempt/)
 - [2024秋冬季OS训练营实习总结：异步协程相关1](https://systemxlabs.github.io/blog/green-threads-in-200-lines-of-rust/)
 - [2024秋冬季OS训练营实习总结：异步协程相关2](https://github.com/wahoooooooo/os_blog)
-- [embassy os kernel](https://github.com/embassy-rs/embassy)：Embassy is the next-generation framework for embedded applications.
-- [ariel-os](https://github.com/ariel-os/ariel-os/tree/main):Ariel OS is an operating system for secure, memory-safe, low-power Internet of Things (IoT). It is based on Rust from the ground up and supports hardware based on 32-bit microcontroller architectures (Cortex-M, RISC-V, and Xtensa).
+- [rust embedded book中文版](https://xxchang.github.io/book/)
+- [embassy os kernel](https://github.com/embassy-rs/embassy)：Embassy is the next-generation framework for embedded applications. [embassy book](https://embassy.dev/book/)
+- [ariel-os](https://github.com/ariel-os/ariel-os/tree/main):Ariel OS is an operating system for secure, memory-safe, low-power Internet of Things (IoT). It is based on Rust from the ground up and supports hardware based on 32-bit microcontroller architectures (Cortex-M, RISC-V, and Xtensa). [ariel-os book](https://ariel-os.github.io/ariel-os/dev/docs/book/)
 - [基于异步协程的内核组件与宏内核架构操作系统](https://gitlab.eduxiji.net/PLNTRY/OSKernel2023-umi)
 
  

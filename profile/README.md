@@ -151,7 +151,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 **注3：如果想继续实习/训练的学生和工程师，请在完成四阶段OS实习后，请与助教和老师联系。这些项目和其它OS相关项目属于有一定创新性的题目，得到了国家实验室、国家创新中心、头部企业和高校研究生导师的直接支持，在就业和学业发展上有新的挑战和机会。**
 
 ## 开展新的探索
-- [开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！
+- [开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，也可作为工程师的实习题目，欢迎报名并参加！
 
 ## 相关开源社区
 - [内核组件汇聚中心](https://github.com/kern-crates) 汇聚了各种各样的内核组件，并进行分析、测试和管理

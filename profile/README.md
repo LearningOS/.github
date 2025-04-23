@@ -115,8 +115,8 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [Normal -- Hard  ：Design Hypervisor小例子](https://github.com/LearningOS/RVM-Tutorial)
   - [RVM-Tutorial 文档](https://github.com/equation314/RVM-Tutorial/wiki)
 - [组件化axvisor hypervisor](https://github.com/arceos-hypervisor/axvisor)
-- [hvisor](https://github.com/syswonder/hvisor)
-- [rust-shyper](https://gitee.com/openeuler/rust_shyper)
+- [hvisor hypervisor](https://github.com/syswonder/hvisor)
+- [rust-shyper hypervisor](https://gitee.com/openeuler/rust_shyper)
 
 ##### 任务：完成实验练习
 **设计实现组件化Hypervisor**

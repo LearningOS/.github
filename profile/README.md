@@ -64,8 +64,6 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [**"实现组件化OS/Hypervisor"练习题排行榜**](https://opencamp.cn/os2edu/camp/2025spring/stage/3?tab=rank)这个是课后练习的排行榜，一共6题，共600分，可以查看自己的的排名情况。
 - [**"实现组件化OS/Hypervisor"挑战题排行榜**](https://opencamp.cn/os2edu/camp/2025spring/stage/5?tab=rank)这个是挑战题目的排行榜，满分设置的是373分，可以查看自己的的排名情况。 
 - 注：感谢徐堃元、殷金钰和周屿涵建立的三阶段排行榜！
-- 注：有感兴趣改进各阶段的排行榜的学员，请在直接微信联系助教或导师，我们一起共建训练营。
-
 
 **第四阶段：实战1~3**  
 #### 实战1：OS Kernel Design&Implementation
@@ -100,7 +98,6 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
    1. 排名逻辑：按总分排名，总分排名相同则按git commit的push时间排名
    1. Linux测试用例来自[全国大学生OS比赛内核赛道的测例](https://github.com/oscomp/testsuits-for-oskernel/tree/2025_multiarch)
 - 注：感谢黄熙涵建立的宏内核排行榜！
-- 注：有感兴趣改进各阶段的排行榜的学员，请在直接微信联系助教或导师，我们一起共建训练营。
 
 ##### 交流与贡献
 - [给Starry-Next宏内核提问题](https://github.com/oscomp/starry-next/issues) 关于Starry-Next的bug信息等
@@ -122,25 +119,27 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 **设计实现组件化Hypervisor**
 - [四阶段实战二具体小任务列表](https://github.com/orgs/rcore-os/discussions/13)
 
-**注：有感兴趣改进各阶段的排行榜的学员，请在直接微信联系助教或导师，我们一起共建训练营。**
 
 #### 实战3：OS kernel/driver based on the asynchronous mechanism of coroutines
 **（第四阶段）目标：基于 Rust 语言的异步机制 future 对设备驱动和调度器等内核模块进行异步改造核心问题**
+
+##### 参考资源
 - [opencamp课程-项目三：基于协程异步机制的操作系统/驱动](https://opencamp.cn/os2edu/camp/2025spring/stage/7)
 - 基础阶段：学习相关博客
   - [200行实现绿色线程](https://zjp-cn.github.io/os-notes/green-thread.html)
   - [与协程相关的博客](https://without.boats/tags/async/)
 - 进阶阶段：阅读 tokio 源码，形成文档
   - 参考资料：[tokio中文](https://tokio-zh.github.io/document/)
-- 最终阶段：达成以下任意目标即可
-  - 使用协程来构建内核调度器，例如将 rCore-tutorial 使用协程实现，或者自己写一个 os
-  - 自己实现一个用户态的协程运行时，要求使用到 io_uring 等机制
 
-- 注：有感兴趣改进各阶段的排行榜的学员，请在直接微信联系助教或导师，我们一起共建训练营。
+##### 任务：完成实验练习
+**设计实现异步协程相关机制和内核相关组件**
+- [四阶段实战三具体小任务列表](https://github.com/orgs/rcore-os/discussions/36)
+
+**注1：有感兴趣改进各阶段的排行榜的学员，请在直接微信联系助教或导师，我们一起共建训练营。**
   
-**注1：如果对（Option）训练内容或定制培训内容感兴趣，请联系LearningOS开源社区负责人李明老师（微信id：limingth）。**
+**注2：如果对（Option）训练内容或定制培训内容感兴趣，请联系LearningOS开源社区负责人李明老师（微信id：limingth）。**
 
-**注2：如果想选择可选项目的学生和工程师，请在完成第二阶段的训练后，请与助教和老师联系。这些项目属于有一定创新性的题目，得到了国家实验室、国家创新中心、头部企业和高校研究生导师的直接支持，在就业和学业发展上有新的挑战和机会。**
+**注3：如果想继续实习/训练的学生和工程师，请在完成四阶段OS实习后，请与助教和老师联系。这些项目和其它OS相关项目属于有一定创新性的题目，得到了国家实验室、国家创新中心、头部企业和高校研究生导师的直接支持，在就业和学业发展上有新的挑战和机会。**
 
 ## 开展新的探索
 - [开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！

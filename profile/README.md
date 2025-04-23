@@ -122,7 +122,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 **设计实现组件化Hypervisor**
 - [四阶段实战二具体小任务列表](https://github.com/orgs/rcore-os/discussions/13)
 
-- 注：有感兴趣改进各阶段的排行榜的学员，请在直接微信联系助教或导师，我们一起共建训练营。
+**注：有感兴趣改进各阶段的排行榜的学员，请在直接微信联系助教或导师，我们一起共建训练营。**
 
 #### 实战3：OS kernel/driver based on the asynchronous mechanism of coroutines
 **（第四阶段）目标：基于 Rust 语言的异步机制 future 对设备驱动和调度器等内核模块进行异步改造核心问题**

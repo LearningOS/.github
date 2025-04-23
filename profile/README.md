@@ -70,8 +70,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 **第四阶段：实战1~3**  
 #### 实战1：OS Kernel Design&Implementation
 **（第四阶段）目标：用组件化开发方法，基于单体内核组件扩展出宏内核组件，设计并实现直接支持Linux应用的轻量组件化宏内核**
-##### 具体小任务
-- [四阶段实战一具体小任务列表](https://github.com/orgs/rcore-os/discussions/15)
+
 
 实战挑战：类似全国大学生操作系统比赛内核赛道实战，构造支持linux syscalls的OS kernel on RV64/LA64/AARCH64/X64，
 ##### 学习建议
@@ -85,6 +84,10 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 
 ##### 任务：完成实验练习
 **设计实现支持Linux App的宏内核**
+- [四阶段实战一具体小任务列表](https://github.com/orgs/rcore-os/discussions/15)
+
+**一个具体任务的参考步骤：扩展Linux Syscall**
+
 1. [创建OS kernel Comp练习教室](https://classroom.github.com/a/END-WGn8) 点击后按提示可以建立自己的OS kernel Comp实验专用仓库
 1. 把[Starry-next](https://github.com/oscomp/starry-next)作为基线宏内核参考，并阅读[starry-next编程指导书(撰写中)](https://azure-stars.github.io/Starry-Tutorial-Book/)
 1. 进一步分析[支持Linux App宏内核的编程排行榜](https://learningos.cn/oscomptest-grading)中有成绩的repo项目，学习他们是如何逐步实现对Linux Syscalls的支持，并进一步通过测试用例的。注:上榜的宏内核不仅仅是Starry Next，还有ByteOS等
@@ -109,10 +112,15 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 **（第四阶段）目标：用组件化开发方法，基于单体内核组件扩展出系统虚拟化组件，设计并实现直接支持运行Linux和其他OS内核的轻量组件化Hypervisor**
 
 实战挑战：基于RV64/LA64/AARCH64/X64的硬件辅助虚拟化，设计轻量组件化的Hypervisor
+
+##### 参考资源
 - [opencamp课程-项目二：基于ArceOS组件的Hypervisor- AxVisor](https://opencamp.cn/os2edu/camp/2025spring/stage/6)
 - [Normal -- Hard  ：Design Hypervisor小例子](https://github.com/LearningOS/RVM-Tutorial)
   - [RVM-Tutorial 文档](https://github.com/equation314/RVM-Tutorial/wiki)
-- [some ideas&progress](https://github.com/orgs/rcore-os/discussions/13)
+
+##### 任务：完成实验练习
+**设计实现组件化Hypervisor**
+- [四阶段实战二具体小任务列表](https://github.com/orgs/rcore-os/discussions/13)
 
 - 注：有感兴趣改进各阶段的排行榜的学员，请在直接微信联系助教或导师，我们一起共建训练营。
 

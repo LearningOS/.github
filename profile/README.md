@@ -1,4 +1,5 @@
-# the Learning&Training Hub of Open Source OS Kernel
+# the Learning&TrainingHub of Open Source OS Kernel
+# 开源操作系统学习与训练中心
 
 ## [2025春夏季开源操作系统训练营：2025.3.30~2025.6.22](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-summary.md)
 - 2025.4.24：[2025年春夏季开源操作系统训练营四阶段实习进展情况](https://docs.qq.com/doc/DUGtzRHBaU2FTRWdz)：[实习项目1任务](https://github.com/orgs/rcore-os/discussions/15),[实习项目2任务](https://github.com/orgs/rcore-os/discussions/13),[实习项目3任务](https://github.com/orgs/rcore-os/discussions/36)

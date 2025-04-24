@@ -4,7 +4,7 @@
 - 2025.4.24：[2025年春夏季开源操作系统训练营四阶段实习进展情况](https://docs.qq.com/doc/DUGtzRHBaU2FTRWdz)：[实习项目1任务](https://github.com/orgs/rcore-os/discussions/15),[实习项目2任务](https://github.com/orgs/rcore-os/discussions/13),[实习项目3任务](https://github.com/orgs/rcore-os/discussions/36)
 - 2025.4.14：排行榜发布：[入门:rusting排行榜](https://opencamp.cn/os2edu/camp/2025spring/stage/1?tab=rank) -> [进阶：rCore Tutorial内核练习排行榜](https://opencamp.cn/os2edu/camp/2025spring/stage/2?tab=rank) -> [提升：组件化内核练习题排行榜](https://opencamp.cn/os2edu/camp/2025spring/stage/3?tab=rank) -> [实战:实习项目1任务排行榜](https://learningos.cn/oscomptest-grading)
 - 2025.3.30：[2025年春夏季开源操作系统训练营启动仪式](https://meeting.tencent.com/crm/NbwaVE759c)
-- 2025.3.19: 2025年春夏季开源操作系统训练营发布[**重要信息**](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-summary.md)，请仔细阅读。
+- 2025.3.19: [2025年春夏季开源操作系统训练营主站](https://opencamp.cn/os2edu/camp/2025spring)公布，并发布[**重要信息**](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-summary.md)，请仔细阅读。
 - 2025.3.15: 2025年春夏季开源操作系统训练营准备中。
 
 ## [以往信息](./log.md)

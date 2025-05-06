@@ -84,7 +84,8 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 
 ##### 任务：完成实验练习
 **设计实现支持Linux App的宏内核**
-- [四阶段实战一具体小任务列表](https://github.com/orgs/rcore-os/discussions/15)
+- [四阶段实战一具体小任务列表](https://github.com/oscomp/starry-next/discussions/40)
+- [四阶段实战一具体小任务列表-补充](https://github.com/orgs/rcore-os/discussions/15)
 
 **一个具体任务的参考步骤：扩展Linux Syscall**
 

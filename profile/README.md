@@ -1,12 +1,20 @@
 # the Learning&TrainingHub of Open Source OS Kernel
 # 开源操作系统学习与训练中心
-
+## **新闻**
 ## [2025春夏季开源操作系统训练营：2025.3.30~2025.6.22](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-summary.md)
 - 2025.4.24：[2025年春夏季开源操作系统训练营四阶段实习进展情况](https://docs.qq.com/doc/DUGtzRHBaU2FTRWdz)：[实习项目1任务](https://github.com/orgs/rcore-os/discussions/15),[实习项目2任务](https://github.com/orgs/rcore-os/discussions/13),[实习项目3任务](https://github.com/orgs/rcore-os/discussions/36)
 - 2025.4.14：排行榜发布：[入门:rusting排行榜](https://opencamp.cn/os2edu/camp/2025spring/stage/1?tab=rank) -> [进阶：rCore Tutorial内核练习排行榜](https://opencamp.cn/os2edu/camp/2025spring/stage/2?tab=rank) -> [提升：组件化内核练习题排行榜](https://opencamp.cn/os2edu/camp/2025spring/stage/3?tab=rank) -> [实战:实习项目1任务排行榜](https://learningos.cn/oscomptest-grading)
 - 2025.3.30：[2025年春夏季开源操作系统训练营启动仪式](https://meeting.tencent.com/crm/NbwaVE759c)
 - 2025.3.19: [**2025年春夏季开源操作系统训练营主站**](https://opencamp.cn/os2edu/camp/2025spring)公布，并发布[**2025年春夏季开源操作系统训练营汇总信息**](https://github.com/LearningOS/rust-based-os-comp2025/blob/main/2025-spring-summary.md)，请仔细阅读。
 - 2025.3.15: 2025年春夏季开源操作系统训练营准备中。
+
+## **相关新闻**
+- [2025开源之夏-唐图社区开源项目](https://summer-ospp.ac.cn/org/orgdetail/4169274d-0d8f-4836-96a4-cc9061ee7a24?lang=zh)
+- [2025第二届中国研究生操作系统开源创新大赛2025.5.1~8月下旬](https://cpipc.acge.org.cn//cw/detail/2c9080178c7c917b018d1b1a0af61cd6/2c908018963934e10196865400e4360c) 
+- [2025全国大学生OS比赛：2025.3~2025.8](https://github.com/oscomp/)
+
+**注：上述比赛、实习等都有[唐图开源社区](https://github.com/rcore-os)的开源题目，与本次训练营四阶段的题目基本一致，欢迎大家积极报名参加！**
+
 
 ## [以往信息](./log.md)
 

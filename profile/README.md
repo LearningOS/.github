@@ -9,7 +9,8 @@
 - 2025.3.15: 2025年春夏季开源操作系统训练营准备中。
 
 ## **相关新闻**
-- [2025开源之夏-唐图社区开源项目](https://summer-ospp.ac.cn/org/orgdetail/4169274d-0d8f-4836-96a4-cc9061ee7a24?lang=zh)
+- [2025开源之夏（开源软件供应链点亮计划 ）-唐图社区开源项目](https://summer-ospp.ac.cn/org/orgdetail/4169274d-0d8f-4836-96a4-cc9061ee7a24?lang=zh)
+  - [唐图开源社区在2025年4月加入开源软件供应链点亮计划](https://summer-ospp.ac.cn/org/orgdetail/4169274d-0d8f-4836-96a4-cc9061ee7a24?lang=zh)
   - [arceos unikernel](https://summer-ospp.ac.cn/org/prodetail/254160233?list=org&navpage=org)、[starry-next宏内核](https://summer-ospp.ac.cn/org/prodetail/254160236?list=org&navpage=org)、[axvisor hypervisor](https://summer-ospp.ac.cn/org/prodetail/254160237?list=org&navpage=org)：与训练营四阶段的实习项目基本一致 
 - [2025第二届中国研究生操作系统开源创新大赛2025.5.1~8月下旬](https://cpipc.acge.org.cn//cw/detail/2c9080178c7c917b018d1b1a0af61cd6/2c908018963934e10196865400e4360c)
   - [比赛题目详解](https://cpipc.acge.org.cn/sysFile/downFile.do?fileId=e12a2fc621dd4b72a4b24b797cee0955)：其中第5题与训练营四阶段的实习项目基本一致 

@@ -131,7 +131,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 - [组件化axvisor hypervisor](https://github.com/arceos-hypervisor/axvisor)
 - [hvisor hypervisor](https://github.com/syswonder/hvisor)
 - [rust-shyper hypervisor](https://gitee.com/openeuler/rust_shyper)
-- [2023-2024OS训练营虚拟化实习项目资源](https://github.com/learngingos/2024-virtualization-campus)
+- [2023-2024OS训练营虚拟化实习项目资源](https://github.com/learningos/2024-virtualization-campus)
 ##### 任务：完成实验练习
 **设计实现组件化Hypervisor**
 - [四阶段实战二具体小任务列表](https://github.com/orgs/rcore-os/discussions/13)

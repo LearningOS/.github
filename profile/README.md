@@ -171,7 +171,7 @@ rCore Tutorial来自清华大学计算机系本科操作系统课实验
 
 ## 开展新的探索
 - [开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，也可作为工程师的实习题目，欢迎报名并参加！
-
+- osbiglab-2025s-* : OS课大实验项目
 ## 相关开源社区
 - [内核组件汇聚中心](https://github.com/kern-crates) 汇聚了各种各样的内核组件，并进行分析、测试和管理
 - [ArceOS开源社区](https://github.com/arceos-org/arceos) 探索多构型内核组件化设计
